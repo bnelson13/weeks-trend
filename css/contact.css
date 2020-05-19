@@ -1,0 +1,394 @@
+* {
+    /* border: .1px solid red; */
+    font-family: Nunito;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2f4353;
+    background-image: linear-gradient(360deg, white 100%, white 100%);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.nav-bar {
+    height: 150px;
+    top: 0;
+    color: black;
+    display: flex;
+    position: absolute;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 32px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.logo-int {
+    text-align: center;
+}
+
+.logo-link {
+    text-decoration: none;
+    color: black;
+}
+
+.logo-int h1 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 65px;
+    text-transform: uppercase;
+    line-height: 60px;
+}
+
+.logo-int p {
+    letter-spacing: 1.06em;
+    text-indent: 1.25em;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.nav-menu {
+    font-size: 18px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 20px;
+    align-items: center;
+}
+
+.nav-menu ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav-menu ul li {
+    padding: 20px;
+    display: flex;
+}
+
+.nav-menu ul li a {
+    text-decoration: none;
+    color: black;
+    font-family: nunito;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    position: relative;
+}
+
+.nav-menu ul li a:after {
+    content: '';
+    position: absolute;
+    width: 0; height: 2px;
+    display: block;
+    margin-top: 5px;
+    right: 0;
+    background: black;
+    transition: width 1s ease;
+    -webkit-transition: width 1s ease;
+}
+
+.nav-menu ul li a:hover:after {
+    width: 100%;
+    left: 0;
+    background: black;
+}
+
+.nav-menu ul li button:focus {
+    outline: 0;
+}
+
+.nav-menu ul li button {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 18px;
+    border: none;
+    color: black;
+    font-family: nunito;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    position: relative;
+}
+
+.nav-menu ul li button:after {
+    content: '';
+    position: absolute;
+    width: 0; height: 2px;
+    display: block;
+    margin-top: 5px;
+    right: 0;
+    background: black;
+    transition: width 1s ease;
+    -webkit-transition: width 1s ease;
+}
+
+.nav-menu ul li button:hover:after {
+    width: 100%;
+    left: 0;
+    background: black;
+}
+
+.cat-drop-container {
+    display: none;
+    position: absolute;
+    margin-top: 10px;
+    background: white;
+    min-width: 120px;
+    max-height: 230px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 2;
+}
+
+.cat-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.show-cat-drop {
+    display: block;
+}
+
+.cat-drop-container a {
+    color: black;
+    padding: 9px 16px;
+    text-decoration: none;
+    display: block;
+    transition: ease .2s all;
+}
+
+.cat-drop-container a:hover {
+    background-color: black;
+    color: white;
+}
+
+.nav-menu ul li .cat-drop-holder .cat-drop-container a:after {
+    display: none;
+}
+
+.contact-container {
+    display: grid;
+    height: 500px;
+    width: 780px;
+    top: 160px;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+    grid-template-columns: 1px 305px 474px;
+    justify-content: center;
+    border: 1px solid #8a8a8a;
+    border-radius: 2px;
+}
+
+.phone-pic {
+    background: url('https://images.unsplash.com/photo-1495129532087-1456841824ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1825&q=80');
+    background-repeat: no-repeat;
+    height: 498px;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    grid-column-start: 2;
+}
+
+.contact-form-div{
+    display: block;
+    padding: 51px;
+}
+
+#contact-form {
+    display: block;
+    position: relative;
+    height: 400px;
+}
+
+#contact-form label {
+    text-transform: uppercase;
+    letter-spacing: .2em;
+}
+
+#contact-form input {
+    font-family: Nunito;
+    padding: 10px;
+    font-size: 17px;
+    width: 100%;
+    border: 1px solid #8a8a8a;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+#contact-form textarea {
+    font-family: Nunito;
+    padding: 10px;
+    font-size: 17px;
+    width: 100%;
+    border: 1px solid #8a8a8a;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+#contact-form #message {
+    height: 100px;
+}
+
+#contact-form #submit {
+    text-transform: uppercase;
+    width: 130px;
+    left: 50%;
+    position: relative;
+    background: rgba(0, 0, 0, 0.75);
+    color: white;
+    transform: translateX(-50%);
+    letter-spacing: .2em;
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 0px;
+}
+
+footer {
+    background-color: black;
+    height: 210px;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    width: 100%;
+    margin-top: 200px;
+}
+
+footer p {
+    color: rgba(255, 255, 255, 0.2);
+}
+
+.footerLinks {
+    list-style: none;
+    display: flex;
+}
+
+.footerLinks li a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    position: relative;
+    margin: 20px;
+}
+
+.footerLinks li a:after {
+    content: '';
+    position: absolute;
+    width: 0; height: 2px;
+    display: block;
+    margin-top: 5px;
+    right: 0;
+    background: white;
+    transition: width 1s ease;
+    -webkit-transition: width 1s ease;
+}
+
+.footerLinks li a:hover:after {
+    width: 100%;
+    left: 0;
+    background: white;
+}
+
+/* iPad Settings */
+@media (max-width: 900px) {
+
+    .contact-form-div{
+        padding: 51px;
+    }
+    
+    .contact-container {
+        width: 474px;
+        top: 60px;
+        border: none;
+        grid-template-columns: 474px;
+    }
+    
+    .border-left {
+        display: none;
+    }
+
+    .phone-pic {
+        display: none;
+    }
+
+    .dropdown label {
+        display: none;
+    }
+
+    .logo{
+        position: absolute;
+        top: 20px;
+        left: 50%;
+        transform: translate(-50%, -100px);
+    }
+
+    .nav-bar {
+        display: flex;
+        height: 100px;
+        flex-direction: column-reverse;
+        top: 120px;
+        position: relative;
+    }
+
+    .nav-menu {
+        display: grid;
+        margin: 0;
+        justify-content: center;
+    }
+
+    .dropdown {
+        margin: 0;
+    }
+
+    .dropbtn {
+        text-align-last: center;
+    }
+
+    .underHeader {
+        margin-top: 150px;
+    }
+
+    footer {
+        flex-direction: column-reverse;
+        padding: 30px;
+        margin-top: 70px;
+    }
+}
+
+/* iPhone Vertical Footer Fix Settings */
+@media (max-width: 500px)
+{
+    .contact-container {
+        width: 300px;
+        grid-template-columns: 300px;
+    }
+
+    footer {
+        padding: 10px;
+    }
+
+    .footerLinks {
+        display: block;
+        text-align: center;
+    }
+
+    .footerLinks li {
+        margin: 10px;
+    }
+}

@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="cache-control" content="max-age=0"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css?v=3">
+    <title>Weeks Trend</title>
+</head>
+<body>
+    <button class="borderTog">OFF</button>
+    <header class='nav-bar'>
+        <div class="dropdown">
+            <label for="dropbtn">Week of </label>
+            <select class="dropbtn" id="weekSelect" name="weekOption">
+            </select>
+            </div>
+        </div>
+        <div class="logo">
+            <div class="logo-int">
+                <h1>weeks</h1>
+                <p>trend</p>
+            </div>
+        </div>
+        <div class="nav-menu">
+            <ul>
+                <li>
+                    <div class="cat-drop-holder">
+                        <button class="cat-button" onclick="catDropMenuToggle()">categories</button>
+                        <div class="cat-drop-container" id="cat-drop-down">
+                            <a href="html/art.html">Art</a>
+                            <a href="html/articles.html">Articles</a>
+                            <a href="html/books.html">Books</a>
+                            <a href="html/classes.html">Free Classes</a>
+                            <a href="html/funny.html">Funny</a>
+                            <a href="html/gadgets.html">Gadgets</a>
+                            <a href="html/movies.html">Movies</a>
+                            <a href="html/pictures.html">Pictures</a>
+                            <a href="html/podcasts.html">Podcasts</a>
+                            <a href="html/recipes.html">Recipes</a>
+                            <a href="html/songs.html">Songs</a>
+                            <a href="html/lists.html">Top 10 Lists</a>
+                            <a href="html/trivia.html">Trivia</a>
+                            <a href="html/tweets.html">Tweets</a>
+                            <a href="html/websites.html">Websites</a>
+                        </div>
+                    </div>
+                </li>
+                <li><a href="/html/contact-us.html">contact</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <div class="underHeader">
+        <p>Cool trends of the week</p>
+    </div>
+    <div class="card-holder">
+        <div class="cardBox" id="articleCard">
+            <a id="articleLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Article</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    
+        <div class="cardBox" id="bookCard">
+            <a id="bookLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Book</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    
+        <div class="cardBox" id="songCard">
+            <a id="songLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Song</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    
+        <div class="cardBox" id="movieCard">
+            <a id="movieLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Movie</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    
+        <div class="cardBox" id="pictureCard">
+            <a id="pictureLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Picture</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="qBox">
+        <div class="qBoxQuote">" Be yourself; everyone else is already taken. "</div>
+        <div class="qBoxAuthor">Oscar Wilde</div>
+    </div>
+
+    <div class="card-holder-2">
+        <div class="cardBox" id="recipeCard">
+            <a id="recipeLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Recipe</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    
+        <div class="cardBox" id="artCard">
+            <a id="artLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Art</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    
+        <div class="cardBox" id="websiteCard">
+            <a id="websiteLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Website</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    </div>
+
+    <div class="card-holder-3">
+        <div class="cardBox" id="podcastCard">
+            <a id="podcastLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Podcast</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    
+        <div class="cardBox" id="gadgetCard">
+            <a id="gadgetLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Gadget</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+
+        <div class="cardBox" id="tweetCard">
+            <a id="tweetLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Tweet</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    
+        <div class="cardBox" id="funnyCard">
+            <a id="funnyLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Funny</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    </div>
+
+    <div class="qBox">
+        <div class="qBoxQuote">" It is never too late to be what you might have been. "</div>
+        <div class="qBoxAuthor">George Eliot</div>
+    </div>
+
+    <div class="card-holder-4">
+        <div class="cardBox" id="triviaCard">
+            <a id="triviaLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Trivia</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    
+        <div class="cardBox" id="classCard">
+            <a id="classLink" class="cardLink" target="blank" href="#">
+                <div class="cardType">Free Class</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+
+        <div class="cardBox" id="top10Card">
+            <a id="top10Link" class="cardLink" target="blank" href="#">
+                <div class="cardType">Top Ten List</div>
+                <div class="cardHeadline">Headline</div>
+                <div class="cardBy">Citation</div>
+            </a>
+        </div>
+    
+        <div class="cardBox" id="newsletterCard">
+            <div class="newsletterButton">Newsletter<br><div id="comingSoon">Coming Soon!</div></div>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2020 WEEKS TREND</p>
+        <ul class="footerLinks">
+            <li><a href="#">Legal</a></li>
+            <li><a href="/html/contact-us.html">Advertising</a></li>
+            <li><a href="/html/contact-us.html">Careers</a></li>
+            <li><a href="/html/contact-us.html">Contact</a></li>
+        </ul>
+        <p>SITE BY BTN</p>
+    </footer>
+
+
+    <script src="/js/weeks.js?v=5" type="text/javascript"></script>
+    <!-- <script src="/js/weeks.js?ver<%=DateTime.Now.Ticks.ToString()%" type="text/javascript"></script> -->
+
+    <!-- Card Holder 1 Scripts -->
+    <script src="/js/articles.js?v=3" type="text/javascript"></script>
+    <script src="/js/books.js?v=3" type="text/javascript"></script>
+    <script src="/js/songs.js?v=3" type="text/javascript"></script>
+    <script src="/js/movies.js?v=3" type="text/javascript"></script>
+    <script src="/js/pictures.js?v=3" type="text/javascript"></script>
+
+    <!-- Card Holder 2 Scripts -->
+    <script src="/js/recipes.js?v=3" type="text/javascript"></script>
+    <script src="/js/arts.js?v=3" type="text/javascript"></script>
+    <script src="/js/websites.js?v=3" type="text/javascript"></script>
+    
+    <!-- Card Holder 3 Scripts -->
+    <script src="/js/podcasts.js?v=3" type="text/javascript"></script>
+    <script src="/js/gadgets.js?v=3" type="text/javascript"></script>
+    <script src="/js/tweets.js?v=3" type="text/javascript"></script>
+    <script src="/js/funnys.js?v=3" type="text/javascript"></script>
+
+    <!-- Card Holder 4 Scripts -->
+    <script src="/js/trivias.js?v=3" type="text/javascript"></script>
+    <script src="/js/classes.js?v=3" type="text/javascript"></script>
+    <script src="/js/toptens.js?v=3" type="text/javascript"></script>
+    
+    <script src="/js/app.js?v=3" type="text/javascript"></script>
+    
+</body>
+</html>
+
