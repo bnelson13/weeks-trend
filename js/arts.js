@@ -27,10 +27,10 @@ let artsData = [{
 },
 {
     "week": "052420",
-    "headline": "ART TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1579541671172-43429ce17aca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1345&q=80"
+    "headline": "A New Hero Emerges",
+    "citation": "Banksy",
+    "link": "https://www.banksy.co.uk/img/nhs3.jpg",
+    "img": "https://www.banksy.co.uk/img/nhs3.jpg"
 },
 {
     "week": "053120",
