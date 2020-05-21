@@ -1,0 +1,19 @@
+{
+  "name": "weeks-trend-webpack",
+  "version": "1.0.0",
+  "description": "Updates to weeks trend with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnelson13/weeks-trend.git"
+  },
+  "author": "BTN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnelson13/weeks-trend/issues"
+  },
+  "homepage": "https://github.com/bnelson13/weeks-trend#readme"
+}
