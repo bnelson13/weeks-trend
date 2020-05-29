@@ -27,17 +27,17 @@ const articlesData = [{
 },
 {
     "week": "052420",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Chines approves controversial security law for Hong Kong",
+    "citation": "LA Times",
+    "link": "https://www.latimes.com/world-nation/story/2020-05-28/china-congress-approves-controversial-national-security-law-for-hong-kong",
+    "img": "https://live.staticflickr.com/3931/15468365175_403ee9bb01_b.jpg"
 },
 {
     "week": "053120",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Protests in Minnesota over George Floyd death",
+    "citation": "AP News",
+    "link": "https://apnews.com/e27cfce9464809aa8c91afd74c930bb5",
+    "img": "https://storage.googleapis.com/afs-prod/media/64b134fdf619482caded369de4af6080/800.jpeg"
 },
 {
     "week": "060720",

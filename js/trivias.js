@@ -14,7 +14,7 @@ let triviasData = [{
 {
     "week": "051020",
     "headline": "A town in Norway called Hell freezes over every winter",
-    "citation": "Wikipedia.org",
+    "citation": "Wikipedia",
     "link": "https://en.wikipedia.org/wiki/Hell,_Norway",
     "img": "https://images.unsplash.com/photo-1586345634653-dee580cf1332?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=674&q=80"
 },
@@ -27,230 +27,230 @@ let triviasData = [{
 },
 {
     "week": "052420",
-    "headline": "SONG TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "About 700 Grapes go into one bottle of wine",
+    "citation": "Cornell",
+    "link": "https://grapesandwine.cals.cornell.edu/newsletters/appellation-cornell/2011-newsletters/issue-8/conversion-factors-vineyard-bottle/",
+    "img": "https://images.unsplash.com/photo-1539519532614-723937382b86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1834&q=80"
 },
 {
     "week": "053120",
-    "headline": "SONG TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "At 4,101 feet, Mt. Thor on Baffin Island, Canada, has Earth’s greatest sheer vertical drop",
+    "citation": "Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Mount_Thor",
+    "img": "https://whenonearth.net/wp-content/uploads/Mt.-Thor-of-Canada.png"
 },
 {
     "week": "060720",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "061420",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "062120",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "062820",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "070520",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "071220",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "071920",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "072620",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "080220",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "080920",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "081620",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "082320",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "083020",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "090620",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "091320",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "092020",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "092720",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "100420",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "101120",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "101820",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "102520",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "110120",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "110820",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "111520",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "112220",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "112920",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "120620",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "121320",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "122020",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "122720",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "010321",
-    "headline": "SONG TITLE",
+    "headline": "TRIVIA",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"

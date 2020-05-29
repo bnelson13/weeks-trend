@@ -27,230 +27,230 @@ let funnysData = [{
 },
 {
     "week": "052420",
-    "headline": "SONG TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Best in Show Judges",
+    "citation": "Fred Willard",
+    "link": "https://www.youtube.com/watch?v=-GaJPgI3jh4",
+    "img": "https://1.bp.blogspot.com/_jSFWwOjqiLw/TNkIhDYrHoI/AAAAAAAABRI/cwXNQGCuRxA/s1600/bestinshow4.jpg"
 },
 {
     "week": "053120",
-    "headline": "SONG TITLE",
-    "citation": "Citation",
-    "link": "#",
+    "headline": "Rod Livingston as Customs Agent",
+    "citation": "Funny or Die",
+    "link": "https://www.funnyordie.com/2017/5/9/17722886/welcome-to-america-with-gad-elmaleh-and-ron-livingston",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "060720",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "061420",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "062120",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "062820",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "070520",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "071220",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "071920",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "072620",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "080220",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "080920",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "081620",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "082320",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "083020",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "090620",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "091320",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "092020",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "092720",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "100420",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "101120",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "101820",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "102520",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "110120",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "110820",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "111520",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "112220",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "112920",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "120620",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "121320",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "122020",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "122720",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "010321",
-    "headline": "SONG TITLE",
+    "headline": "FUNNY",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"

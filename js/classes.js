@@ -27,17 +27,17 @@ let classesData = [{
 },
 {
     "week": "052420",
-    "headline": "CLASS TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1477281765962-ef34e8bb0967?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=932&q=80"
+    "headline": "The Science of Well-being",
+    "citation": "Yale University",
+    "link": "https://www.coursera.org/learn/the-science-of-well-being",
+    "img": "https://images.unsplash.com/photo-1443916568596-df5a58c445e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80"
 },
 {
     "week": "053120",
-    "headline": "CLASS TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1477281765962-ef34e8bb0967?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=932&q=80"
+    "headline": "US Government and Civics",
+    "citation": "Khan Academy",
+    "link": "https://www.khanacademy.org/humanities/us-government-and-civics",
+    "img": "https://images.unsplash.com/photo-1505753254631-1eec85e1b50d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80"
 },
 {
     "week": "060720",

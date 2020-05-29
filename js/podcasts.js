@@ -27,17 +27,17 @@ let podcastsData = [{
 },
 {
     "week": "052420",
-    "headline": "PODCAST TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1556761175-129418cb2dfe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Joe Rogan Experience",
+    "citation": "Joe Rogan",
+    "link": "http://podcasts.joerogan.net/",
+    "img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-213329-R1247_FEA_Rogen_A.jpg?resize=1800,1200&w=1800"
 },
 {
     "week": "053120",
-    "headline": "PODCAST TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1556761175-129418cb2dfe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Radiolab",
+    "citation": "WNYC",
+    "link": "https://www.wnycstudios.org/podcasts/radiolab",
+    "img": "https://www.gannett-cdn.com/-mm-/fe673730bdd374ac94b8e3ebadbe03c085c02fcf/c=408-0-6792-4800/local/-/media/2018/01/26/WIGroup/Appleton/636525794352426586-Jad-Abumrad-with-radio-1-credit-Lizzy-Johnston-.jpg?width=534&height=401&fit=crop"
 },
 {
     "week": "060720",

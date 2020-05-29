@@ -27,230 +27,230 @@ let toptensData = [{
 },
 {
     "week": "052420",
-    "headline": "SONG TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Top 10 Songs of all time",
+    "citation": "Rolling Stone",
+    "link": "https://www.rollingstone.com/music/music-lists/500-greatest-songs-of-all-time-151127/ray-charles-whatd-i-say-31816/",
+    "img": "https://images.unsplash.com/photo-1560745984-055a2350a548?ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80"
 },
 {
     "week": "053120",
-    "headline": "SONG TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Best Pools around the world",
+    "citation": "Pandotrip",
+    "link": "https://www.pandotrip.com/top-10-marvelous-pools-in-the-world-4181/",
+    "img": "https://www.pandotrip.com/wp-content/uploads/2018/09/Amazing-pool-at-Ubud-Hanging-Gardens-Bali-Indonesia.jpg"
 },
 {
     "week": "060720",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "061420",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "062120",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "062820",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "070520",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "071220",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "071920",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "072620",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "080220",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "080920",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "081620",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "082320",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "083020",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "090620",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "091320",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "092020",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "092720",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "100420",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "101120",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "101820",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "102520",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "110120",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "110820",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "111520",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "112220",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "112920",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "120620",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "121320",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "122020",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "122720",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "010321",
-    "headline": "SONG TITLE",
+    "headline": "SONG",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1547489401-fcada4966052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"

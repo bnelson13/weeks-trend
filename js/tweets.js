@@ -27,16 +27,16 @@ let tweetsData = [{
 },
 {
     "week": "052420",
-    "headline": "TITLE",
+    "headline": "@karencheee",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/karencheee/status/1263077562051366919?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1263077562051366919%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.huffpost.com%2Fentry%2Fthe-20-funniest-tweets-from-women-this-week-may-16-22_n_5ec1fbfac5b603f620724bb4",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "053120",
-    "headline": "TITLE",
+    "headline": "@Ruth_A_Buzzi",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/Ruth_A_Buzzi/status/1261511574117855238?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1261511574117855238%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.huffpost.com%2Fentry%2Fthe-20-funniest-tweets-from-women-this-week-may-16-22_n_5ec1fbfac5b603f620724bb4",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {

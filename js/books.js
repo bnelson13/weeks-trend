@@ -27,17 +27,17 @@ const booksData = [{
 },
 {
     "week": "052420",
-    "headline": "BOOK TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "The Choice",
+    "citation": "Dr. Edith Eger",
+    "link": "https://amzn.to/2ApwX4H",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/52/Auschwitz_I_%2822_May_2010%29.jpg"
 },
 {
     "week": "053120",
-    "headline": "BOOK TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Cloud Atlas",
+    "citation": "David Mitchell",
+    "link": "https://amzn.to/2TS6HqF",
+    "img": "https://live.staticflickr.com/8285/7695231550_6bb301b258_z.jpg"
 },
 {
     "week": "060720",

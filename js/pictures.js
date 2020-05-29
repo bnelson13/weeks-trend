@@ -28,17 +28,17 @@ const picturesData = [
 },
 {
     "week": "052420",
-    "headline": "PICTURE TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1588758056051-6686597a2825?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+    "headline": "Monument Valley",
+    "citation": "Mar Bocatcat",
+    "link": "https://images.unsplash.com/photo-1498252207774-50583342eb33?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+    "img": "https://images.unsplash.com/photo-1498252207774-50583342eb33?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "053120",
-    "headline": "PICTURE TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1588758056051-6686597a2825?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+    "headline": "Micronesia",
+    "citation": "Marek Okon",
+    "link": "https://images.unsplash.com/photo-1553602932-f93f674a9aaa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1671&q=80",
+    "img": "https://images.unsplash.com/photo-1553602932-f93f674a9aaa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1671&q=80"
 },
 {
     "week": "060720",

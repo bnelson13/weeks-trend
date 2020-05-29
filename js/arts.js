@@ -34,10 +34,10 @@ let artsData = [{
 },
 {
     "week": "053120",
-    "headline": "ART TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1579541671172-43429ce17aca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1345&q=80"
+    "headline": "Liberty Leading the People",
+    "citation": "Eugen Delacroix",
+    "link": "https://www.khanacademy.org/humanities/ap-art-history/later-europe-and-americas/enlightenment-revolution/a/delacroix-liberty-leading",
+    "img": "https://cdn.kastatic.org/ka-perseus-images/10c8a0b4ec7a1dde8b63d6d50489e1468b65fd3f.jpg"
 },
 {
     "week": "060720",

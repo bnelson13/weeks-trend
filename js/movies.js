@@ -27,230 +27,230 @@ let moviesData = [{
 },
 {
     "week": "052420",
-    "headline": "MOVIE TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Back to the future",
+    "citation": "Robert Zemeckis",
+    "link": "https://www.netflix.com/title/60010110",
+    "img": "https://www.nme.com/wp-content/uploads/2019/05/RYM972.jpg"
 },
 {
     "week": "053120",
-    "headline": "MOVIE TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Den of Theives",
+    "citation": "Christian Gudegast",
+    "link": "https://www.netflix.com/title/80196448",
+    "img": "https://moviemanjackson.files.wordpress.com/2018/01/dot2.jpg"
 },
 {
     "week": "060720",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "061420",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "062120",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "062820",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "070520",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "071220",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "071920",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "072620",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "080220",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "080920",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "081620",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "082320",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "083020",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "090620",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "091320",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "092020",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "092720",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "100420",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "101120",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "101820",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "102520",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "110120",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "110820",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "111520",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "112220",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "112920",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "120620",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "121320",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "122020",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "122720",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
 },
 {
     "week": "010321",
-    "headline": "MOVIE TITLE",
+    "headline": "MOVIE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"

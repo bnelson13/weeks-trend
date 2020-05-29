@@ -27,230 +27,230 @@ let websitesData = [{
 },
 {
     "week": "052420",
-    "headline": "WEBSITE TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Interactive Generative Art",
+    "citation": "Weave Silk",
+    "link": "http://weavesilk.com/",
+    "img": "https://i.imgur.com/w2pCsFs.jpg"
 },
 {
     "week": "053120",
-    "headline": "WEBSITE TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Make your writing bold and clear",
+    "citation": "Hemingway Editor",
+    "link": "http://www.hemingwayapp.com/",
+    "img": "https://blog.dundee.ac.uk/web/files/2017/10/Screen-Shot-2017-10-19-at-10.56.19-1024x697.png"
 },
 {
     "week": "060720",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "061420",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "062120",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "062820",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "070520",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "071220",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "071920",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "072620",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "080220",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "080920",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "081620",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "082320",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "083020",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "090620",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "091320",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "092020",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "092720",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "100420",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "101120",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "101820",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "102520",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "110120",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "110820",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "111520",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "112220",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "112920",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "120620",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "121320",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "122020",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "122720",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "010321",
-    "headline": "WEBSITE TITLE",
+    "headline": "WEBSITE",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
