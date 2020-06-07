@@ -41,10 +41,10 @@ let funnysData = [{
 },
 {
     "week": "060720",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Top Stand Up Comedy Quotes",
+    "citation": "The Chive",
+    "link": "https://thechive.com/2020/06/06/stand-up-comedy-quotes-that-are-gold-jerry-gold-26-photos/",
+    "img": "https://thechive.com/wp-content/uploads/2020/06/Humor-stand-up-comedy-comedians2.jpg?quality=85&strip=info&w=600"
 },
 {
     "week": "061420",

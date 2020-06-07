@@ -34,17 +34,17 @@ let songsData = [{
 },
 {
     "week": "053120",
-    "headline": "Corazon",
-    "citation": "Gims",
-    "link": "https://www.youtube.com/watch?v=VjMZJZdNnBE",
-    "img": "https://img.bfmtv.com/c/1000/600/ab9/db28827227282225ddf7d6d8f543b.jpeg"
+    "headline": "Broken People",
+    "citation": "Logic & Rag'n'Bone",
+    "link": "https://www.youtube.com/watch?v=o9zRQijCN5w",
+    "img": "https://static.hiphopdx.com/2017/11/Logic1-826x620.jpg"
 },
 {
     "week": "060720",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Glory",
+    "citation": "John Legend & Common",
+    "link": "https://www.youtube.com/watch?v=HUZOKvYcx_o",
+    "img": "https://mtv.mtvnimages.com/uri/mgid:ao:image:mtv.com:67857?quality=0.8&format=jpg&width=1440&height=810&.jpg"
 },
 {
     "week": "061420",

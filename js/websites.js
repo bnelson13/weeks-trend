@@ -41,10 +41,10 @@ let websitesData = [{
 },
 {
     "week": "060720",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Learn from the Experts",
+    "citation": "The Big Think",
+    "link": "https://bigthink.com/",
+    "img": "https://i.ytimg.com/vi/7QLks9QkVLM/maxresdefault.jpg"
 },
 {
     "week": "061420",

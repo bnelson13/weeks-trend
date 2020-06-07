@@ -41,10 +41,10 @@ let moviesData = [{
 },
 {
     "week": "060720",
-    "headline": "MOVIE",
+    "headline": "Uncut Gems",
     "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "link": "https://www.netflix.com/title/80990663",
+    "img": "https://www.whats-on-netflix.com/wp-content/uploads/2019/10/uncut-gems-netflix-release-schedule.jpg"
 },
 {
     "week": "061420",

@@ -9,7 +9,7 @@ let recipesData = [{
     "headline": "Traditional Shepherd's Pie",
     "citation": "The Wholesome Dish",
     "link": "https://www.thewholesomedish.com/the-best-classic-shepherds-pie/",
-    "img": "https://www.thewholesomedish.com/wp-content/uploads/2019/02/The-Best-Classic-Shepherds-Pie-600X900.jpg"
+    "img": "https://www.thewholesomedish.com/wp-content/uploads/2019/02/The-Best-Classic-Shepherds-Pie-2.jpg"
 },
 {
     "week": "051020",
@@ -41,217 +41,218 @@ let recipesData = [{
 },
 {
     "week": "060720",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "New England Clam Chowder",
+    "citation": "Damn Delicious",
+    "link": "https://damndelicious.net/2015/04/25/easy-clam-chowder/",
+    "img": "https://s23209.pcdn.co/wp-content/uploads/2019/10/Easy-Clam-ChowderIMG_1064.jpg"
 },
 {
     "week": "061420",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Traditional Greek Moussaka",
+    "citation": "My Baking Saga",
+    "link": "https://mybakingsaga.com/2018/07/traditional-greek-moussaka/#.XtkXI55KhTY",
+    "img": "https://mybakingsaga.com/wp-content/uploads/2018/07/traditional-greek-moussaka.jpg"
 },
 {
     "week": "062120",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Eggs Benedict",
+    "citation": "New York Times",
+    "link": "https://cooking.nytimes.com/recipes/1018626-eggs-benedict",
+    "img": "https://static01.nyt.com/images/2018/11/21/dining/ar-eggs-benedict/ar-eggs-benedict-articleLarge.jpg"
 },
 {
     "week": "062820",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Gourmet Hot Dog Bar",
+    "citation": "How Sweet Eats",
+    "link": "https://www.howsweeteats.com/2019/05/hot-dog-bar/",
+    "img": "https://www.howsweeteats.com/wp-content/uploads/2019/05/hot-dog-bar-17.jpg"
 },
 {
     "week": "070520",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Best Potato Salad",
+    "citation": "Spicy Perspective",
+    "link": "https://www.aspicyperspective.com/make-best-potato-salad-recipe/",
+    "img": "https://nitrocdn.com/wNaVTMyblCPjzAPXbeDDfFKcpvICVOVU/assets/static/optimized/rev-cfee412/wp-content/uploads/2017/01/how-to-make-the-best-potato-salad-recipe-10.jpg"
 },
 {
     "week": "071220",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Homemade Cookies & Cream Ice Cream",
+    "citation": "Food Network",
+    "link": "https://www.foodnetwork.com/recipes/food-network-kitchen/homemade-cookies-and-cream-ice-cream-3363122",
+    "img": "https://www.bigbearswife.com/wp-content/uploads/2016/04/Cookies-and-Cream-Ice-Cream-8.jpg"
 },
 {
     "week": "071920",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Chicken & Mushroom Crepes",
+    "citation": "Entertaining with Beth",
+    "link": "https://entertainingwithbeth.com/chicken-and-mushroom-crepe-recipe/",
+    "img": "https://entertainingwithbeth.com/wp-content/uploads/2019/05/Chicken-and-Mushroom-Crepe-Recipe-HERO-vert.jpg"
 },
 {
     "week": "072620",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Slow Cooker Pulled Pork",
+    "citation": "Delish",
+    "link": "https://www.delish.com/cooking/recipe-ideas/recipes/a51267/slow-cooker-pulled-pork-recipe/",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-slow-cooker-pulled-pork-horizontal-2-1539619173.png?crop=1xw:1xh;center,top&resize=768:*"
 },
 {
     "week": "080220",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Classic Potato Gratin",
+    "citation": "Fine Cooking",
+    "link": "https://www.finecooking.com/recipe/classic-potato-gratin",
+    "img": "https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18152211/fc36ho036-03-main.jpg"
 },
 {
     "week": "080920",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Easy Roated Brussel Sprouts",
+    "citation": "Serious Eats",
+    "link": "https://www.seriouseats.com/recipes/2013/12/easy-roasted-brussels-sprouts-food-lab-recipe.html",
+    "img": "https://www.seriouseats.com/recipes/images/2015/10/roasted-brussels-sprouts-1500x1125.jpg"
 },
 {
     "week": "081620",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Chocolate and Amaretto Torte",
+    "citation": "Nigella Lawson",
+    "link": "https://www.bbc.co.uk/food/recipes/sunken_chocolate_42872",
+    "img": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/sunken_chocolate_42872_16x9.jpg"
 },
 {
     "week": "082320",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Braised Baby Back Ribs",
+    "citation": "Sense & Edibility",
+    "link": "https://senseandedibility.com/baby-back-ribs-braised/",
+    "img": "https://senseandedibility.com/wp-content/uploads/2019/03/Braised-St-Louis-Spare-Ribs-18.jpg"
 },
 {
     "week": "083020",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Lobster Bisque",
+    "citation": "Cafe Delites",
+    "link": "https://cafedelites.com/lobster-bisque/",
+    "img": "https://cafedelites.com/wp-content/uploads/2020/02/Lobster-Bisque-IMAGE-2.jpg"
 },
 {
     "week": "090620",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Chicken Fricassee",
+    "citation": "Delish",
+    "link": "https://www.delish.com/cooking/recipe-ideas/a23105767/easy-chicken-fricassee-recipe/",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/chicken-fricassee-horizontal-1536771733.png?resize=768:*"
 },
 {
     "week": "091320",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Baja Fish Tacos",
+    "citation": "Billi Parisi",
+    "link": "https://www.billyparisi.com/baja-fish-taco-recipe-with-mango-salsa-and-queso-fresco/",
+    "img": "https://www.billyparisi.com/wp-content/uploads/2012/07/fish-tacos-3.jpg"
 },
 {
     "week": "092020",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Asian Chicken Lettuce Cups",
+    "citation": "Joy Food Sunshine",
+    "link": "https://joyfoodsunshine.com/asian-chicken-lettuce-wraps/",
+    "img": "https://nitrocdn.com/pYazsaHOTWIueLckVEtXQdYLdaoHaWlC/assets/static/source/wp-content/uploads/2018/08/56b612785285d7049f603e66a292bf8c.Asian-chicken-lettuce-wraps-recipe-1-768x768.jpg"
 },
 {
     "week": "092720",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Classic Potato Latkes",
+    "citation": "New York Times",
+    "link": "https://cooking.nytimes.com/recipes/1015533-classic-potato-latkes",
+    "img": "https://static01.nyt.com/images/2018/12/09/dining/21COOKING-POTATO-LATKE/21COOKING-POTATO-LATKE-videoLarge.jpg"
 },
 {
     "week": "100420",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Tiramisu",
+    "citation": "Sallys Baking",
+    "link": "https://sallysbakingaddiction.com/tiramisu/",
+    "img": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2019/06/tiramisu-3-600x900.jpg"
 },
 {
     "week": "101120",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Chicken Schnitzel with Jaegar Sauce",
+    "citation": "Urban Feast",
+    "link": "https://theurbanfeast.wordpress.com/2012/05/27/chicken-schnitzel-with-jaeger-sauce/",
+    "img": "https://theurbanfeast.files.wordpress.com/2012/05/img_1507.jpg?w=500&h=333"
 },
 {
     "week": "101820",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Classic Swiss Cheese Fondue",
+    "citation": "Earth Food & Fire",
+    "link": "https://www.earthfoodandfire.com/swiss-cheese-fondue/",
+    "img": "https://www.earthfoodandfire.com/wp-content/uploads/2016/11/authentic-swiss-cheese-fondue.jpg"
 },
 {
     "week": "102520",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Perfect Pumpkin Pie",
+    "citation": "Once Upon a Chef",
+    "link": "https://www.onceuponachef.com/recipes/perfect-pumpkin-pie.html",
+    "img": "https://www.onceuponachef.com/images/2015/11/Perfect-Pumpkin-Pie4-760x504.jpg"
 },
 {
     "week": "110120",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Coq au Vin",
+    "citation": "Ina Garten",
+    "link": "https://www.foodnetwork.com/recipes/ina-garten/coq-au-vin-recipe4-2011654",
+    "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/2/1/0/IG1005_Coq_Au_Vin_s4x3.jpg.rend.hgtvcom.616.462.suffix/1404919272117.jpeg"
 },
 {
     "week": "110820",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Thai Green Curry",
+    "citation": "Recipe in Eats",
+    "link": "https://www.recipetineats.com/thai-green-curry/",
+    "img": "https://www.recipetineats.com/wp-content/uploads/2019/02/Thai-Green-Curry_5.jpg?resize=650,910"
 },
 {
     "week": "111520",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "World's Best Mashed Potatoes",
+    "citation": "Delish",
+    "link": "https://www.delish.com/cooking/recipe-ideas/recipes/a50630/perfect-mashed-potatoes-recipe/",
+    "img": "https://natashaskitchen.com/wp-content/uploads/2016/11/Creamy-Mashed-Potatoes-4.jpg"
 },
 {
     "week": "112220",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Best Turkey Recipe Possible",
+    "citation": "Serious Eats",
+    "link": "https://www.seriouseats.com/recipes/2012/11/butterfiled-roast-turkey-with-gravy-recipe.html",
+    "img": "https://www.seriouseats.com/recipes/images/2015/04/20121108-spatchcock-turkey-food-lab-12-1500x1125.jpg"
 },
 {
     "week": "112920",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Marinated Flank Steak",
+    "citation": "Simply Recipes",
+    "link": "https://www.simplyrecipes.com/recipes/grilled_marinated_flank_steak/",
+    "img": "https://www.simplyrecipes.com/wp-content/uploads/2015/06/grilled-marinated-flank-steak-horiz-a-1200.jpg"
 },
 {
     "week": "120620",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Mulled Wine",
+    "citation": "Inspired by Charm",
+    "link": "https://inspiredbycharm.com/mulled-wine/",
+    "img": "https://d1doqjmisr497k.cloudfront.net/-/media/schwartz/recipes/2000x1125/mulled_wine_recipe_2000.jpg?vd=20180522T020613Z&hash=4BFC5EB6F0D3B9BF5771DEC6F0050CB45A6E5687"
 },
 {
     "week": "121320",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Mint Chimichurri Lamb Chops",
+    "citation": "Garlic & Zest",
+    "link": "https://www.garlicandzest.com/mint-chimichurri-lamb-chops/",
+    "img": "https://nitrocdn.com/gCaDNYUJCuiypCqxlmELrbTWvUDmqpSr/assets/static/optimized/rev-61f4432/wp-content/uploads/2018/04/LAMB-CHIMICHURRI.jpg"
 },
 {
     "week": "122020",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Slow Cooker Honey Baked Ham",
+    "citation": "Chunky Chef",
+    "link": "https://www.thechunkychef.com/easy-copycat-honeybaked-ham-recipe/",
+    "img": "https://www.thechunkychef.com/wp-content/uploads/2018/02/Copycat-Honey-Baked-Ham-slices-680x1020.jpg"
 },
 {
     "week": "122720",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Broiled Lobster Tail",
+    "citation": "Recipe Critic",
+    "link": "https://therecipecritic.com/lobster-tail-recipe/",
+    "img": "https://therecipecritic.com/wp-content/uploads/2020/01/broiled_lobster.jpg"
 },
 {
     "week": "010321",
-    "headline": "RECIPE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1875&q=80"
+    "headline": "Healthy Baked Salmon",
+    "citation": "Cafe Delites",
+    "link": "https://cafedelites.com/sheet-pan-garlic-butter-baked-salmon/",
+    "img": "https://cafedelites.com/wp-content/uploads/2018/03/Sheet-Pan-Baked-Salmon-Potatoes-Asparagus-2.jpg"
 }]

@@ -41,9 +41,9 @@ let tweetsData = [{
 },
 {
     "week": "060720",
-    "headline": "TITLE",
+    "headline": "@laurapeek_",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/laurapeek_/status/1264950842022432769?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1264950842022432769&ref_url=https%3A%2F%2Fwww.huffpost.com%2Fentry%2Fthe-20-funniest-tweets-from-women-this-week-may-23-29_n_5ecaf958c5b69baf89fdcafc",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {

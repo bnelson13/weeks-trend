@@ -41,10 +41,10 @@ const articlesData = [{
 },
 {
     "week": "060720",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Roger Goodell on Colin Kaepernick: 'We were wrong'",
+    "citation": "CNN",
+    "link": "https://www.cnn.com/2020/06/05/sport/roger-goodell-responds-nfl-stronger-together-video/index.html",
+    "img": "https://www.mercurynews.com/wp-content/uploads/2016/09/untitled-1.jpg?w=654&h=377"
 },
 {
     "week": "061420",

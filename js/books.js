@@ -41,10 +41,10 @@ const booksData = [{
 },
 {
     "week": "060720",
-    "headline": "BOOK TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "White Fragility",
+    "citation": "Robin DiAngelo",
+    "link": "https://amzn.to/3eY5upR",
+    "img": "https://img.apmcdn.org/fadc6810ccb845c54c3a9c154fc0473ddd7c4e34/normal/39fce8-20180705-diangelo-whitefragility-2-collage.jpg"
 },
 {
     "week": "061420",
