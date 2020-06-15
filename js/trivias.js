@@ -37,7 +37,7 @@ let triviasData = [{
     "headline": "At 4,101 feet, Mt. Thor on Baffin Island, Canada, has Earth’s greatest sheer vertical drop",
     "citation": "Wikipedia",
     "link": "https://en.wikipedia.org/wiki/Mount_Thor",
-    "img": "https://whenonearth.net/wp-content/uploads/Mt.-Thor-of-Canada.png"
+    "img": "https://cdn.shopify.com/s/files/1/0423/7173/products/Trepanier_Mount-Thor.jpg?v=1492549812"
 },
 {
     "week": "060720",

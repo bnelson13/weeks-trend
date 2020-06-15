@@ -42,23 +42,23 @@ let moviesData = [{
 {
     "week": "060720",
     "headline": "Uncut Gems",
-    "citation": "Citation",
+    "citation": "Josh Safdie, Benny Safdie",
     "link": "https://www.netflix.com/title/80990663",
     "img": "https://www.whats-on-netflix.com/wp-content/uploads/2019/10/uncut-gems-netflix-release-schedule.jpg"
 },
 {
     "week": "061420",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Hell or High Water",
+    "citation": "David Mackenzie",
+    "link": "https://www.netflix.com/title/80108616",
+    "img": "https://static01.nyt.com/images/2017/01/17/watching/hell-or-high-water-watching-recommendation/18watching-recommendation-slide-3PNL-master1050.jpg"
 },
 {
     "week": "062120",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Room",
+    "citation": "Lenny Abrahamson",
+    "link": "https://www.netflix.com/watch/80073823",
+    "img": "https://static01.nyt.com/images/2018/11/05/arts/room-watching/16what-to-do-room-master1050.jpg"
 },
 {
     "week": "062820",

@@ -48,17 +48,17 @@ let songsData = [{
 },
 {
     "week": "061420",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "You Should be Sad",
+    "citation": "Halsey",
+    "link": "https://www.youtube.com/watch?v=8nBFqZppIF0",
+    "img": "https://img.particlenews.com/image.php?type=thumbnail_1024x576&url=0nXrft_0NoHharO00"
 },
 {
     "week": "062120",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Dance Monkey",
+    "citation": "Tones & I",
+    "link": "https://www.youtube.com/watch?v=q0hyYWKXF0Q&list=PLiDpE5JOXvy02WkXMX8g7ewIN-ZzTyBks&index=23",
+    "img": "https://static.billboard.com/files/media/Tones-And-I-press-photo-bb26-2019-billboard-1548-1024x677.jpg"
 },
 {
     "week": "062820",

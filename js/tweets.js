@@ -48,9 +48,9 @@ let tweetsData = [{
 },
 {
     "week": "061420",
-    "headline": "TITLE",
+    "headline": "@pattonoswalt",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/pattonoswalt/status/1269795318586957824",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {

@@ -48,17 +48,17 @@ const articlesData = [{
 },
 {
     "week": "061420",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "The Looming Bank Collapse",
+    "citation": "The Atlantic",
+    "link": "https://www.theatlantic.com/magazine/archive/2020/07/coronavirus-banks-collapse/612247/",
+    "img": "https://si.wsj.net/public/resources/images/ED-AX951_FELDST_P_20180927100824.jpg"
 },
 {
     "week": "062120",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "What Police Reform could look like",
+    "citation": "NPR",
+    "link": "https://www.npr.org/2020/06/15/876790680/what-federal-police-reform-could-include-and-what-the-sticking-points-may-be",
+    "img": "https://media.npr.org/assets/img/2020/06/14/gettyimages-1219773069_custom-cab9b4cc0d50e6878ba60ec1c84a7e46fb06808f-s800-c85.jpg"
 },
 {
     "week": "062820",

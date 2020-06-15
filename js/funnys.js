@@ -48,10 +48,10 @@ let funnysData = [{
 },
 {
     "week": "061420",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Mumford & Sons Hopeless Wanderer Music Video",
+    "citation": "Youtube",
+    "link": "https://www.youtube.com/watch?v=rId6PKlDXeU",
+    "img": "https://www.irishmanabroad.com/wp-content/uploads/2013/08/Mumford-Sons.png"
 },
 {
     "week": "062120",

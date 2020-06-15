@@ -48,17 +48,17 @@ const booksData = [{
 },
 {
     "week": "061420",
-    "headline": "BOOK TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Where the Crawdads Sing",
+    "citation": "Delia Owens",
+    "link": "https://amzn.to/37iLSKs",
+    "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540871723l/42583886._SY475_.jpg"
 },
 {
     "week": "062120",
-    "headline": "BOOK TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Upheaval",
+    "citation": "Jared Diamond",
+    "link": "https://amzn.to/3frbEis",
+    "img": "https://www.rainydaybooks.com/sites/rainydaybooks.com/files/styles/large/public/author_photo/Jared%20Diamond%20Photo%20%26%20Softcover%20Current%2002042020.jpg?itok=NSf2RYRV"
 },
 {
     "week": "062820",
