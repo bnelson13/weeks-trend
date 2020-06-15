@@ -62,10 +62,10 @@ const articlesData = [{
 },
 {
     "week": "062820",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Jon Stewart is Back to Weigh In",
+    "citation": "New York Times Magazine",
+    "link": "https://www.nytimes.com/interactive/2020/06/15/magazine/jon-stewart-interview.html?action=click&module=Editors%20Picks&pgtype=Homepage?utm_source=digg",
+    "img": "https://static01.nyt.com/images/2020/06/21/magazine/21mag-stewart/21mag-stewart-jumbo.jpg"
 },
 {
     "week": "070520",
