@@ -55,16 +55,16 @@ let tweetsData = [{
 },
 {
     "week": "062120",
-    "headline": "TITLE",
+    "headline": "@jourdayen",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/jourdayen/status/1270804102642098177",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "062820",
-    "headline": "TITLE",
+    "headline": "@balmthreat",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/balmthreat/status/1272644711044562946",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {

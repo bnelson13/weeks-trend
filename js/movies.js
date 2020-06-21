@@ -62,10 +62,10 @@ let moviesData = [{
 },
 {
     "week": "062820",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Zodiac",
+    "citation": "David Fincher",
+    "link": "https://www.netflix.com/watch/70044686",
+    "img": "https://icdn5.digitaltrends.com/image/digitaltrends/best-netflix-movies-zodiac-1200x9999.jpg"
 },
 {
     "week": "070520",

@@ -51,7 +51,7 @@ const booksData = [{
     "headline": "Where the Crawdads Sing",
     "citation": "Delia Owens",
     "link": "https://amzn.to/37iLSKs",
-    "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540871723l/42583886._SY475_.jpg"
+    "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2018%2F09%2Fdelia-owens-1-2000.jpg&q=85"
 },
 {
     "week": "062120",
@@ -62,195 +62,195 @@ const booksData = [{
 },
 {
     "week": "062820",
-    "headline": "BOOK TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Circe",
+    "citation": "Madeline Miller",
+    "link": "https://amzn.to/2N5rAuJ",
+    "img": "https://www.jcpl.org/wp-content/uploads/2018/09/Circe-Blog-1-1024x683.png"
 },
 {
     "week": "070520",
-    "headline": "BOOK TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Breath",
+    "citation": "James Nestor",
+    "link": "https://amzn.to/3fKFj6H",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71FV+sKuYsL.jpg"
 },
 {
     "week": "071220",
-    "headline": "BOOK TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "The Court of Miracles",
+    "citation": "Kester Grant",
+    "link": "https://amzn.to/3hF24dG",
+    "img": "https://m.media-amazon.com/images/I/51q90GwnZjL.jpg"
 },
 {
     "week": "071920",
-    "headline": "BOOK TITLE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Educated",
+    "citation": "Tara Westover",
+    "link": "https://amzn.to/2Y85kXu",
+    "img": "https://images.penguinrandomhouse.com/cover/9780399590504"
 },
 {
     "week": "072620",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "080220",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "080920",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "081620",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "082320",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "083020",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "090620",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "091320",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "092020",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "092720",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "100420",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "101120",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "101820",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "102520",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "110120",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "110820",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "111520",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "112220",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "112920",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "120620",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "121320",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "122020",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "122720",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 },
 {
     "week": "010321",
-    "headline": "BOOK TITLE",
+    "headline": "BOOK",
     "citation": "Citation",
     "link": "#",
     "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"

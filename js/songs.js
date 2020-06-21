@@ -55,17 +55,17 @@ let songsData = [{
 },
 {
     "week": "062120",
-    "headline": "Dance Monkey",
-    "citation": "Tones & I",
-    "link": "https://www.youtube.com/watch?v=q0hyYWKXF0Q&list=PLiDpE5JOXvy02WkXMX8g7ewIN-ZzTyBks&index=23",
-    "img": "https://static.billboard.com/files/media/Tones-And-I-press-photo-bb26-2019-billboard-1548-1024x677.jpg"
+    "headline": "RITMO",
+    "citation": "Black Eyed Peas",
+    "link": "https://www.youtube.com/watch?v=EzKkl64rRbM",
+    "img": "https://lh3.googleusercontent.com/proxy/b6vmF47b1u14gP8EcM_m4dLlIwCTfJJC9f4mNTYrH8lSR-USnoOl3C49WnZt-dXU8m08Kd51tOzIoeQ-C7Nmyf9QomaYYAzOPY9miD3vIOZ3ZULy6gyhJePySjXwNM_sQNe-TD3kHkYoVSESzG0"
 },
 {
     "week": "062820",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "The Bones",
+    "citation": "Maren Morris",
+    "link": "https://www.youtube.com/watch?v=gvPMVKUI9go",
+    "img": "https://i.ytimg.com/vi/Zmxfd3Z_wBA/maxresdefault.jpg"
 },
 {
     "week": "070520",

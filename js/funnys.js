@@ -55,17 +55,17 @@ let funnysData = [{
 },
 {
     "week": "062120",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Confederacy",
+    "citation": "John Oliver",
+    "link": "https://www.youtube.com/watch?v=J5b_-TZwQ0I",
+    "img": "https://m.media-amazon.com/images/M/MV5BZjBjZGZlOTUtMmIyYy00MjU4LWEwYWMtNTE5YjJjMDg1YjVjXkEyXkFqcGdeQXVyNDMwNzkzNjg@._V1_.jpg"
 },
 {
     "week": "062820",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Netflix is a Joke",
+    "citation": "Dave Chapelle",
+    "link": "https://www.youtube.com/watch?v=3tR6mKcBbT4",
+    "img": "https://i.ytimg.com/vi/VfgwEpVSsEo/maxresdefault.jpg"
 },
 {
     "week": "070520",

@@ -55,17 +55,17 @@ let websitesData = [{
 },
 {
     "week": "062120",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Discover the best sources for any topic",
+    "citation": "Feedly",
+    "link": "https://feedly.com/i/discover",
+    "img": "https://s5.feedly.com/images/fx/landing/source-browser-full-v2@2x.png"
 },
 {
     "week": "062820",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Bring Emojis to life",
+    "citation": "Stinkmoji",
+    "link": "https://stinkmoji.cool/",
+    "img": "https://stinkmoji.cool/share/share_twitter.png"
 },
 {
     "week": "070520",
