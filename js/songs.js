@@ -58,7 +58,7 @@ let songsData = [{
     "headline": "RITMO",
     "citation": "Black Eyed Peas",
     "link": "https://www.youtube.com/watch?v=EzKkl64rRbM",
-    "img": "https://lh3.googleusercontent.com/proxy/b6vmF47b1u14gP8EcM_m4dLlIwCTfJJC9f4mNTYrH8lSR-USnoOl3C49WnZt-dXU8m08Kd51tOzIoeQ-C7Nmyf9QomaYYAzOPY9miD3vIOZ3ZULy6gyhJePySjXwNM_sQNe-TD3kHkYoVSESzG0"
+    "img": "https://jmgmags.com/wp-content/uploads/2019/10/blackeyedpeas.jpg"
 },
 {
     "week": "062820",
