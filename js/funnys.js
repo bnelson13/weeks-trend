@@ -69,10 +69,10 @@ let funnysData = [{
 },
 {
     "week": "070520",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "CEO Worked Way Up From Son of CEO",
+    "citation": "The Onion",
+    "link": "https://www.youtube.com/watch?v=_67JbvXLrmw",
+    "img": "https://i.ytimg.com/vi/_67JbvXLrmw/maxresdefault.jpg"
 },
 {
     "week": "071220",

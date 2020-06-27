@@ -69,23 +69,23 @@ let tweetsData = [{
 },
 {
     "week": "070520",
-    "headline": "TITLE",
+    "headline": "@ozzyunc",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/intent/retweet?tweet_id=1275026060623712257",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "071220",
-    "headline": "TITLE",
+    "headline": "@alexlumaga",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/intent/retweet?tweet_id=1111723071189192704",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "071920",
-    "headline": "TITLE",
+    "headline": "@OhNoSheTwitnt",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/OhNoSheTwitnt/status/1272310312973320192",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {

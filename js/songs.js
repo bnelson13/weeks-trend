@@ -69,10 +69,10 @@ let songsData = [{
 },
 {
     "week": "070520",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Before You Go",
+    "citation": "Lewis Capaldi",
+    "link": "https://www.youtube.com/watch?v=Jtauh8GcxBY",
+    "img": "https://all-noise.co.uk/wp-content/uploads/2019/05/lewis-capaldi.jpg"
 },
 {
     "week": "071220",

@@ -69,10 +69,10 @@ let moviesData = [{
 },
 {
     "week": "070520",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Da 5 Bloods",
+    "citation": "Spike Lee",
+    "link": "https://www.netflix.com/title/81045635",
+    "img": "https://nofilmschool.com/sites/default/files/styles/article_wide/public/da-5-bloods.jpg"
 },
 {
     "week": "071220",

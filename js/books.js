@@ -90,9 +90,10 @@ const booksData = [{
 },
 {
     "week": "072620",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Deacon King Kong",
+    "citation": "James McBride",
+    "link": "https://amzn.to/3i0YtXM",
+    "img": "https://static01.nyt.com/images/2020/03/06/books/06podcast-cover/06podcast-cover-mediumSquareAt3X.jpg"
 },
 {
     "week": "080220",
