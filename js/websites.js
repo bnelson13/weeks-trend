@@ -76,30 +76,31 @@ let websitesData = [{
 },
 {
     "week": "071220",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Discover obscure Spotify songs",
+    "citation": "Forgotify",
+    "link": "http://forgotify.com/",
+    "img": "https://static.billboard.com/files/media/spotify-july-2018-billboard-1548-1024x677.jpg"
 },
 {
     "week": "071920",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Amazing free design tool",
+    "citation": "Figma",
+    "link": "https://www.figma.com/",
+    "img": "https://miro.medium.com/max/5236/1*4clb6MHlPKalAA1jDy-ahA.jpeg"
 },
 {
     "week": "072620",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Organize team projects remotely",
+    "citation": "Asana",
+    "link": "https://www.asana.com/",
+    "img": "https://miro.medium.com/max/2400/1*2DRJYDBh8C5HpXTx9X8pHg.png"
 },
 {
     "week": "080220",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Find youtube videos based on Geo Location",
+    "citation": "Geonarra",
+    "link": "https://www.geonarra.com/",
+    "img": "https://i0.wp.com/geoawesomeness.com/wp-content/uploads/2016/03/Geo-search-youtube-tool-Geoawesomeness.png?fit=890%2C453&ssl=1"
 },
 {
     "week": "080920",

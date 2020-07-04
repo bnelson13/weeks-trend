@@ -76,10 +76,10 @@ let songsData = [{
 },
 {
     "week": "071220",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Dream Girl",
+    "citation": "Anna of the North",
+    "link": "https://www.youtube.com/watch?v=3b0HXEymmSI",
+    "img": "https://i.ytimg.com/vi/Ix09qwHH0m8/maxresdefault.jpg"
 },
 {
     "week": "071920",

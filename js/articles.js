@@ -69,17 +69,17 @@ const articlesData = [{
 },
 {
     "week": "070520",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Russia offered bounties on american troops",
+    "citation": "NYT",
+    "link": "https://www.nytimes.com/2020/06/26/us/politics/russia-afghanistan-bounties.html",
+    "img": "https://im-media.voltron.voanews.com/Drupal/01live-166/styles/892x501/s3/2019-08/reu_us_troops_afgh_640x.jpg?itok=ZD2FO7fn"
 },
 {
     "week": "071220",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Letter to our newborn American daughter",
+    "citation": "BBC",
+    "link": "https://www.bbc.com/news/world-us-canada-53181334",
+    "img": "https://ichef.bbci.co.uk/news/660/cpsprodpb/17AEA/production/_113120079_gettyimages-1194189631.jpg"
 },
 {
     "week": "071920",

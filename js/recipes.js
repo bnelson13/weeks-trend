@@ -72,7 +72,7 @@ let recipesData = [{
     "headline": "Best Potato Salad",
     "citation": "Spicy Perspective",
     "link": "https://www.aspicyperspective.com/make-best-potato-salad-recipe/",
-    "img": "https://nitrocdn.com/wNaVTMyblCPjzAPXbeDDfFKcpvICVOVU/assets/static/optimized/rev-cfa187f/wp-content/uploads/2017/01/how-to-make-the-best-potato-salad-recipe-10.jpg"
+    "img": "https://tastesbetterfromscratch.com/wp-content/uploads/2013/05/Potato-Salad-8.jpg"
 },
 {
     "week": "071220",
