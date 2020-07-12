@@ -76,10 +76,10 @@ let moviesData = [{
 },
 {
     "week": "071220",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "The Town",
+    "citation": "Ben Affleck",
+    "link": "https://www.netflix.com/watch/70127227",
+    "img": "https://i.pinimg.com/originals/27/70/86/27708642fc69f4af7c692b39de1aaafb.jpg"
 },
 {
     "week": "071920",

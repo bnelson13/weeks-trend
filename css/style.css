@@ -230,6 +230,7 @@ body {
 }
 
 .cardBox {
+    border-radius: 8px !important;
     display: flex;
     flex-direction: column;
     color: white;
@@ -275,6 +276,9 @@ body {
     font-size: 12px;
     letter-spacing: .1em;
     transform:scale(1.15,1);
+    text-shadow: 0px 4px 3px rgba(0,0,0,1),
+             0px 8px 13px rgba(0,0,0,1),
+             0px 18px 23px rgba(0,0,0,1);
 }
 
 .cardHeadline {
@@ -282,17 +286,23 @@ body {
     letter-spacing: .15em;
     font-size: 20px;
     margin: 20px 0px;
+    text-shadow: 0px 4px 3px rgba(0,0,0,1),
+             0px 8px 13px rgba(0,0,0,1),
+             0px 18px 23px rgba(0,0,0,1);
 }
 
 .cardBy {
     font-family: Merriweather;
     font-style: italic;
     font-weight: 300;
+    text-shadow: 0px 4px 3px rgba(0,0,0,1),
+    0px 8px 13px rgba(0,0,0,1),
+    0px 18px 23px rgba(0,0,0,1);
 }
 
-.cardLink {
+/* .cardLink {
     background: linear-gradient(180deg, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0.48) 50%, rgba(0, 0, 0, 0) 75%);
-}
+} */
 
 #articleCard {
     grid-area: articleCard;
@@ -395,7 +405,7 @@ body {
 .card-holder-4 {
     display: grid;
     grid-template-columns: 520px 520px;
-    grid-template-rows: 190px 190px 230px;
+    grid-template-rows: 190px 190px 30px;
     grid-gap: 20px;
     grid-template-areas: 
     "triviaCard classCard"
@@ -407,6 +417,10 @@ body {
 
 #triviaCard {
     grid-area: triviaCard;
+}
+
+.triviaHeadline {
+    font-size: 15px;
 }
 
 #classCard {

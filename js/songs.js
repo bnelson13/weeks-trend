@@ -83,10 +83,10 @@ let songsData = [{
 },
 {
     "week": "071920",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Get Back Up",
+    "citation": "G-Eazy",
+    "link": "https://www.youtube.com/watch?v=J-_tv7Y0DAo",
+    "img": "https://dslv9ilpbe7p1.cloudfront.net/BL47nZQCoTvWtf5THebEbA_store_header_image"
 },
 {
     "week": "072620",
