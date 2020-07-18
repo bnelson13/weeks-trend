@@ -83,10 +83,10 @@ let funnysData = [{
 },
 {
     "week": "071920",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "City enters new Coronavirus Phase",
+    "citation": "The Onion",
+    "link": "https://local.theonion.com/city-enters-phase-4-of-pretending-coronavirus-over-1844037065",
+    "img": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_1600/glnfrhoil1v02eey2zto.jpg"
 },
 {
     "week": "072620",

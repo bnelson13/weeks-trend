@@ -83,10 +83,10 @@ let moviesData = [{
 },
 {
     "week": "071920",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "The Old Guard",
+    "citation": "Gina Prince-Bythewood",
+    "link": "https://www.netflix.com/title/81038963",
+    "img": "https://img1.looper.com/img/gallery/the-old-guard-2-will-there-be-a-sequel/intro-1594406478.jpg"
 },
 {
     "week": "072620",

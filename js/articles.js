@@ -83,10 +83,10 @@ const articlesData = [{
 },
 {
     "week": "071920",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Kidnapping of Protesters",
+    "citation": "Reuters",
+    "link": "https://www.reuters.com/article/us-global-race-protests-portland/u-s-swoops-down-on-portland-protesters-after-trump-order-to-protect-monuments-idUSKCN24I2W5",
+    "img": "https://www.abc.net.au/cm/rimage/12469906-16x9-xlarge.jpg"
 },
 {
     "week": "072620",
