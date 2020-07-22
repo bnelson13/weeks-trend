@@ -90,29 +90,30 @@ let tweetsData = [{
 },
 {
     "week": "072620",
-    "headline": "TITLE",
+    "headline": "@buda_dude",
     "citation": "Citation",
+    "link": "https://twitter.com/buda_dude/status/1282159846385745920",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "080220",
-    "headline": "TITLE",
+    "headline": "@alyssalimp",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/alyssalimp/status/1282171727812767746",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "080920",
-    "headline": "TITLE",
+    "headline": "@_dalia7",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/_dalia7/status/1282346275426402315",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "081620",
-    "headline": "TITLE",
+    "headline": "@jillboard",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/jillboard/status/1283115664392118272",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {

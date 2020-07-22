@@ -93,7 +93,7 @@ let artsData = [{
     "headline": "Pollice Verso",
     "citation": "Jean-Leon Gerome",
     "link": "https://seanmunger.com/2015/07/22/historic-painting-pollice-verso-by-jean-leon-gerome-1872/",
-    "img": "https://seanmunger.com/wp-content/uploads/2015/07/gerome-pollice-verso-pd.jpg"
+    "img": "https://i.pinimg.com/originals/31/1f/4d/311f4d824d91a0737c5621e8518e0a2b.jpg"
 },
 {
     "week": "080220",

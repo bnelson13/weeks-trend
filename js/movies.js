@@ -90,23 +90,24 @@ let moviesData = [{
 },
 {
     "week": "072620",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "The Guest",
+    "citation": "Adam Wingard",
+    "link": "https://www.netflix.com/title/70300664",
+    "img": "https://cdn.vox-cdn.com/thumbor/PBd-8dIBGmR3SI8ULVdASyF0WMw=/0x0:2048x1152/920x0/filters:focal(0x0:2048x1152):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20036053/danstevenstheguest.jpg"
 },
 {
     "week": "080220",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Walk Hard",
+    "citation": "Jake Kasdan",
+    "link": "https://www.netflix.com/title/70077550",
+    "img": "https://cdn.vox-cdn.com/thumbor/BWevNzfEE2H_uL1ClQbIK_23sgM=/0x0:2819x1880/920x0/filters:focal(0x0:2819x1880):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20036236/12_20_Revisting_Walk_Hard.jpg"
 },
 {
     "week": "080920",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Anna Karenina",
+    "citation": "Joe Wright",
+    "link": "https://www.netflix.com/title/70243443",
+    "img": "https://cdn.onebauer.media/one/empire-tmdb/films/96724/images/uTu5sqOXPSIQ0WLedyHdr6l7F2D.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg"
 },
 {
     "week": "081620",

@@ -90,9 +90,10 @@ const articlesData = [{
 },
 {
     "week": "072620",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "The dangerous new conspiracy theory in America",
+    "citation": "The Atlantic",
+    "link": "https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567/",
+    "img": "https://static.wixstatic.com/media/dc3ec2_a14b754c415647afacea962d77f77ce9~mv2.jpg/v1/fill/w_1000,h_562,al_c,q_90,usm_0.66_1.00_0.01/dc3ec2_a14b754c415647afacea962d77f77ce9~mv2.jpg"
 },
 {
     "week": "080220",

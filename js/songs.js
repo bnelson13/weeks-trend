@@ -90,51 +90,52 @@ let songsData = [{
 },
 {
     "week": "072620",
-    "headline": "SONG",
-    "citation": "Citation",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Be Like That",
+    "citation": "Kane Brown, Swae Lee, & Khalid",
+    "link": "https://www.youtube.com/watch?v=QeW3iUbc6S0&list=RDCLAK5uy_lBNUteBRencHzKelu5iDHwLF6mYqjL-JU&index=2",
+    "img": "https://secureservercdn.net/198.71.233.109/c8l.77c.myftpupload.com/wp-content/uploads/2020/07/kanebrownthat.jpeg?time=1595055227"
 },
 {
     "week": "080220",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Feel You",
+    "citation": "My Morning Jacket",
+    "link": "https://www.youtube.com/watch?v=WFl0Kotmj7U",
+    "img": "https://lightning100.com/wp-content/uploads/My-Morning-Jacket.jpg"
 },
 {
     "week": "080920",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Future Islands",
+    "citation": "For Sure",
+    "link": "https://www.youtube.com/watch?v=yC_2tlsnpMw",
+    "img": "https://i1.wp.com/www.xsnoize.com/wp-content/uploads/2020/07/0675a1fa-1888-4f6e-b8a4-3b6a0bfd3e74.jpg?resize=678%2C381&ssl=1"
 },
 {
     "week": "081620",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Hell N Back",
+    "citation": "Bakar",
+    "link": "https://www.youtube.com/watch?v=BdrNvQ4YCng",
+    "img": "https://i1.wp.com/coolhunting.com/wp-content/uploads/2019/08/bakar.jpg?fit=700%2C700&ssl=1&w=640"
 },
 {
     "week": "082320",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "No Glory in the West",
+    "citation": "Orville Peck",
+    "link": "https://www.youtube.com/watch?v=TU0TAsEjUpg",
+    "img": "https://etcanada.com/wp-content/uploads/2020/05/Peck.jpg?quality=80&strip=all"
 },
 {
     "week": "083020",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "My Rajneesh",
+    "citation": "Sufjan Stevens",
+    "link": "https://www.youtube.com/watch?v=jn7_JpmhZP0",
+    "img": "https://i.ytimg.com/vi/jn7_JpmhZP0/maxresdefault.jpg"
 },
 {
     "week": "090620",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Under the Thunder",
+    "citation": "Skeggs",
+    "link": "https://www.youtube.com/watch?v=R424TyjWWJk",
+    "img": "https://tonedeaf.thebrag.com/wp-content/uploads/2019/10/Skegss.jpg"
 },
 {
     "week": "091320",

@@ -86,7 +86,7 @@ let podcastsData = [{
     "headline": "The Dream",
     "citation": "Stitcher",
     "link": "https://podcasts.apple.com/us/podcast/the-dream/id1435743296",
-    "img": "https://media.vanityfair.com/photos/5ba4eeacd23564139e45cc66/master/pass/t-the-dream-podcast-clip.jpg"
+    "img": "https://media.vanityfair.com/photos/5ba4eeacd23564139e45cc66/4:3/w_1776,h_1332,c_limit/t-the-dream-podcast-clip.jpg"
 },
 {
     "week": "072620",

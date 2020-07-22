@@ -90,23 +90,24 @@ let funnysData = [{
 },
 {
     "week": "072620",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Drunk History",
+    "citation": "Funny or Die",
+    "link": "https://www.youtube.com/watch?v=ipV2u-MxlFc",
+    "img": "https://lrairportshuttle.com/images/site/Screen_Shot_2016-04-27_at_12.34.19_PM.png"
 },
 {
     "week": "080220",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Crank Yanker with Jimmy Kimmel",
+    "citation": "Comedy Central",
+    "link": "https://www.youtube.com/watch?v=UY5qD-CqhQI",
+    "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2019%2F10%2Fcrank-yankers-kimmel-2000.jpg"
 },
 {
     "week": "080920",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Michael Che Matters",
+    "citation": "Netflix",
+    "link": "https://www.netflix.com/title/80049871",
+    "img": "https://exclaim.ca/images/Michael_Che.jpg"
 },
 {
     "week": "081620",
