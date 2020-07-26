@@ -97,10 +97,10 @@ const articlesData = [{
 },
 {
     "week": "080220",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "A Vaccine Reality Check",
+    "citation": "The Atlantic",
+    "link": "https://www.theatlantic.com/health/archive/2020/07/covid-19-vaccine-reality-check/614566/",
+    "img": "https://cdn.theatlantic.com/thumbor/to7opDBwrywVW_uZ_fz6qeeS5zY=/0x0:2000x1125/720x405/media/img/mt/2020/07/webart_Vaccine2_KM/original.jpg"
 },
 {
     "week": "080920",

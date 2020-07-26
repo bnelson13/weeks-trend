@@ -97,10 +97,10 @@ const booksData = [{
 },
 {
     "week": "080220",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "The Beauty in Breaking",
+    "citation": "Michele Harper",
+    "link": "https://amzn.to/2WNdcfP",
+    "img": "https://crowdcast-prod.imgix.net/-M4sZpXXs-SezOFKNd4A/event-cover-8610?w=800"
 },
 {
     "week": "080920",
