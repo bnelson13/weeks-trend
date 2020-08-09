@@ -104,10 +104,10 @@ const articlesData = [{
 },
 {
     "week": "080920",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "US Intelligence: Russia, China, Iran meddingling in US Election",
+    "citation": "Reuters",
+    "link": "https://www.reuters.com/article/us-usa-election-interference/u-s-counterspy-chief-warns-russia-china-iran-trying-to-meddle-in-2020-election-idUSKCN253304",
+    "img": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200807&t=2&i=1528812706&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXNPEG761KK"
 },
 {
     "week": "081620",
