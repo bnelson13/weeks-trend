@@ -118,9 +118,9 @@ let tweetsData = [{
 },
 {
     "week": "082320",
-    "headline": "TITLE",
+    "headline": "@rileyjsilverman",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/rileyjsilverman/status/1287850885297647617",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {

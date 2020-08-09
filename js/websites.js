@@ -104,10 +104,10 @@ let websitesData = [{
 },
 {
     "week": "080920",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Wind & Weather Patterns",
+    "citation": "Windy",
+    "link": "https://www.windy.com/",
+    "img": "https://farm5.staticflickr.com/4787/40732725772_9fe2983966_b.jpg"
 },
 {
     "week": "081620",

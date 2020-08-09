@@ -104,10 +104,10 @@ const booksData = [{
 },
 {
     "week": "080920",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Tiny Habits",
+    "citation": "Dr. BJ Fogg",
+    "link": "https://amzn.to/2Dkc24t",
+    "img": "https://www.rogerdooley.com/wp-content/uploads/2019/12/bj-fogg_feat.jpg"
 },
 {
     "week": "081620",
