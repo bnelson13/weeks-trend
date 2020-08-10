@@ -113,7 +113,7 @@ const picturesData = [
 {
     "week": "081620",
     "headline": "Slow Forest Stream",
-    "citation": "ian Turnell",
+    "citation": "Ian Turnell",
     "link": "https://images.pexels.com/photos/709552/pexels-photo-709552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "img": "https://images.pexels.com/photos/709552/pexels-photo-709552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 },

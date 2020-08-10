@@ -30,7 +30,7 @@ const booksData = [{
     "headline": "The Choice",
     "citation": "Dr. Edith Eger",
     "link": "https://amzn.to/2ApwX4H",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/5/52/Auschwitz_I_%2822_May_2010%29.jpg"
+    "img": "https://s3-ap-southeast-2.amazonaws.com/ceo-news/wordpress/wp-content/uploads/2020/05/19073453/dr_edith_eger_the_choice.jpg"
 },
 {
     "week": "053120",
@@ -72,28 +72,28 @@ const booksData = [{
     "headline": "Breath",
     "citation": "James Nestor",
     "link": "https://amzn.to/3fKFj6H",
-    "img": "https://images-na.ssl-images-amazon.com/images/I/71FV+sKuYsL.jpg"
+    "img": "https://www.milibrary.org/sites/default/files/events/listing_images/1589576304/Breath.png"
 },
 {
     "week": "071220",
     "headline": "The Court of Miracles",
     "citation": "Kester Grant",
     "link": "https://amzn.to/3hF24dG",
-    "img": "https://m.media-amazon.com/images/I/51q90GwnZjL.jpg"
+    "img": "https://s22421.pcdn.co/wp-content/uploads/2020/03/Untitled-design-40.png"
 },
 {
     "week": "071920",
     "headline": "Educated",
     "citation": "Tara Westover",
     "link": "https://amzn.to/2Y85kXu",
-    "img": "https://images.penguinrandomhouse.com/cover/9780399590504"
+    "img": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/tara-westover-educated-book.jpg"
 },
 {
     "week": "072620",
     "headline": "Deacon King Kong",
     "citation": "James McBride",
     "link": "https://amzn.to/3i0YtXM",
-    "img": "https://static01.nyt.com/images/2020/03/06/books/06podcast-cover/06podcast-cover-mediumSquareAt3X.jpg"
+    "img": "https://www.nypl.org/sites/default/files/mcbride-2.png"
 },
 {
     "week": "080220",
@@ -111,10 +111,10 @@ const booksData = [{
 },
 {
     "week": "081620",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Caste: The Origins of Our Discontents",
+    "citation": "Isabel Wilkerson",
+    "link": "https://amzn.to/3imFndZ",
+    "img": "https://hazlitt.net/sites/default/files/styles/article-header-image/public/field/image/wilkerson-main.jpg?itok=gjN-G9tR"
 },
 {
     "week": "082320",

@@ -111,10 +111,10 @@ let funnysData = [{
 },
 {
     "week": "081620",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": 'Seagulls!',
+    "citation": 'Bad Lip Reading',
+    "link": "https://www.youtube.com/watch?v=U9t-slLl30E",
+    "img": "https://geekandsundry.com/wp-content/uploads/2016/11/Game-5.png"
 },
 {
     "week": "082320",

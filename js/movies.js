@@ -111,10 +111,10 @@ let moviesData = [{
 },
 {
     "week": "081620",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Eternal Sunshine of the Spotless Mind",
+    "citation": "Michel Gondry",
+    "link": "https://www.netflix.com/watch/60034545",
+    "img": "https://frenchculture.org/sites/default/files/styles/max/public/eternalsunshine.jpg?itok=oR3jK3uS"
 },
 {
     "week": "082320",

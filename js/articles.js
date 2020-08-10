@@ -111,10 +111,10 @@ const articlesData = [{
 },
 {
     "week": "081620",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "The Trump Pandemic",
+    "citation": "Slate",
+    "link": "https://slate.com/news-and-politics/2020/08/trump-coronavirus-deaths-timeline.html",
+    "img": "https://compote.slate.com/images/7186d4a5-25f0-47b0-a857-2a9bec51e593.jpeg"
 },
 {
     "week": "082320",

@@ -30,7 +30,7 @@ let websitesData = [{
     "headline": "Interactive Generative Art",
     "citation": "Weave Silk",
     "link": "http://weavesilk.com/",
-    "img": "https://i.imgur.com/w2pCsFs.jpg"
+    "img": "https://d2.alternativeto.net/dist/s/weavesilk-com_749978_full.png?format=jpg&width=1600&height=1600&mode=min&upscale=false"
 },
 {
     "week": "053120",
@@ -70,7 +70,7 @@ let websitesData = [{
 {
     "week": "070520",
     "headline": "Create interactive designs and graphics",
-    "citation": "Google",
+    "citation": "Google Designer",
     "link": "https://webdesigner.withgoogle.com/",
     "img": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/06/template-gallery.png"
 },
@@ -111,17 +111,17 @@ let websitesData = [{
 },
 {
     "week": "081620",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Online Card Table",
+    "citation": "PlayingCards.io",
+    "link": "http://playingcards.io/game/standard-deck",
+    "img": "https://cdn.24.co.za/files/Cms/General/d/5595/1b9e332743a44ea79bc69d1521af7353.jpg"
 },
 {
     "week": "082320",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "This Day in History",
+    "citation": "On This Day",
+    "link": "https://www.onthisday.com/",
+    "img": "https://roodepoortrecord.co.za/wp-content/uploads/sites/20/2016/07/Onthisdaydayin_85450.jpg"
 },
 {
     "week": "083020",
