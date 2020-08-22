@@ -118,10 +118,10 @@ const articlesData = [{
 },
 {
     "week": "082320",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Blood & Anguish: Beirut after the Blast",
+    "citation": "New York Magazine",
+    "link": "https://www.nybooks.com/daily/2020/08/18/broken-glass-blood-and-anguish-beirut-after-the-blast/?src=longreads",
+    "img": "https://cdn.nybooks.com/wp-content/uploads/2020/08/GettyImages-1266425003.jpeg"
 },
 {
     "week": "083020",

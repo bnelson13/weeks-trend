@@ -118,10 +118,10 @@ const booksData = [{
 },
 {
     "week": "082320",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Intimations",
+    "citation": "Zadie Smith",
+    "link": "https://amzn.to/3aPBmw6",
+    "img": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/07/30/09/zadie-smith-six-essays-main.jpg"
 },
 {
     "week": "083020",

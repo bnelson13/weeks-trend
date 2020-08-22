@@ -118,7 +118,7 @@ let toptensData = [{
 },
 {
     "week": "082320",
-    "headline": "Fastest Animal in the World",
+    "headline": "Fastest Animals in the World",
     "citation": "One Kind Planet",
     "link": "https://onekindplanet.org/top-10/top-10-worlds-fastest-animals/",
     "img": "https://onekindplanet.org/wp-content/uploads/2016/10/sailfish_iStock.jpg"

@@ -118,10 +118,10 @@ let funnysData = [{
 },
 {
     "week": "082320",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": 'Will Smith Got Mad at Me',
+    "citation": "Kevin James",
+    "link": "https://www.youtube.com/watch?v=1ojcUwSlEHk",
+    "img": "https://i.ytimg.com/vi/1ojcUwSlEHk/hqdefault.jpg"
 },
 {
     "week": "083020",

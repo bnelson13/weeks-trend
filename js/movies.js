@@ -118,10 +118,10 @@ let moviesData = [{
 },
 {
     "week": "082320",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Crib Camp: A Disability Revolution",
+    "citation": "James LeBrecht & Nicole Newnham",
+    "link": "https://www.netflix.com/title/81001496",
+    "img": "https://static01.nyt.com/images/2020/03/25/arts/cripcamp1/merlin_170700864_579ee404-43b4-4eb7-97cf-1953989a7ffc-master1050.jpg"
 },
 {
     "week": "083020",
