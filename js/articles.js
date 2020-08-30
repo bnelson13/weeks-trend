@@ -125,10 +125,10 @@ const articlesData = [{
 },
 {
     "week": "083020",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Brain Implants that could Change Humanity",
+    "citation": "New York times",
+    "link": "https://www.nytimes.com/2020/08/28/opinion/sunday/brain-machine-artificial-intelligence.html",
+    "img": "https://media4.s-nbcnews.com/j/newscms/2017_46/2227696/171115-brain-mn-1400_14295f32bd4e25a953eecd65cf2676d0.fit-760w.jpg"
 },
 {
     "week": "090620",

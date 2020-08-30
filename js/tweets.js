@@ -125,44 +125,44 @@ let tweetsData = [{
 },
 {
     "week": "083020",
-    "headline": "TITLE",
+    "headline": "@melbreezy_",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/Melbreezy_/status/1241116605360340993?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1241116605360340993%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "090620",
-    "headline": "TITLE",
+    "headline": "@prufrockluvsong",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/prufrockluvsong/status/1219735129947398144?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1219735129947398144%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "091320",
-    "headline": "TITLE",
+    "headline": "@b8tch_updates",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/b8tch_updates/status/1243656750588362760?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1243656750588362760%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "092020",
-    "headline": "TITLE",
+    "headline": "@magadlenapazz22",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/magdalenapaz22/status/1239577067513098240?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1239577067513098240%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "092720",
-    "headline": "TITLE",
+    "headline": "@shoshmcgosh",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/shoshmcgosh/status/1219781290565619712?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1219781290565619712%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "100420",
-    "headline": "TITLE",
+    "headline": "@_CakeBawse",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/_CakeBawse/status/1217506575696506880?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1217506575696506880%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {

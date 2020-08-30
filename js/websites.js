@@ -125,10 +125,10 @@ let websitesData = [{
 },
 {
     "week": "083020",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Cool Gadets and Gear",
+    "citation": "Uncrate",
+    "link": "https://uncrate.com/",
+    "img": "https://i0.wp.com/digiday.com/wp-content/uploads/2013/08/uncrate.jpg?fit=1048%2C525&ssl=1"
 },
 {
     "week": "090620",

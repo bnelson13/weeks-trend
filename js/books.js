@@ -125,31 +125,31 @@ const booksData = [{
 },
 {
     "week": "083020",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "A Burning",
+    "citation": "Megha Majumdar",
+    "link": "https://amzn.to/3hIRYrU",
+    "img": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MUDBJKFPAUI6VB2YX7I5ARKSLI.jpg&w=1200"
 },
 {
     "week": "090620",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Surviving Autocracy",
+    "citation": "Masha Gessen",
+    "link": "https://amzn.to/3lzNPc7",
+    "img": "https://www.thenation.com/wp-content/uploads/2020/06/gessen-autocracy-diptych-680x430.jpg"
 },
 {
     "week": "091320",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Parakeet",
+    "citation": "Marie-Helene Bertino",
+    "link": "https://amzn.to/3jtzUCF",
+    "img": "https://i2.wp.com/www.paperbackparis.com/wp-content/uploads/2020/04/Marie-Helene-Bertino-Parakeet-Book-Review.png?fit=1100%2C733"
 },
 {
     "week": "092020",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Clean Hands",
+    "citation": "Patrick Hoffman",
+    "link": "https://amzn.to/3jqhC5h",
+    "img": "https://orion-uploads.openroadmedia.com/lg_b156ac505a84-patrickhoffman_interview.jpg"
 },
 {
     "week": "092720",

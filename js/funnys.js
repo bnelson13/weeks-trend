@@ -125,10 +125,10 @@ let funnysData = [{
 },
 {
     "week": "083020",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Continental Breakfast",
+    "citation": "Key & Peele",
+    "link": "https://www.youtube.com/watch?v=st21dIMaGMs",
+    "img": "https://cdn.vox-cdn.com/thumbor/QBeC-sJ4KeeoCosIw3VZ6x9PQUY=/116x0:737x466/920x613/filters:focal(116x0:737x466):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/38860994/keypeelbreak850.0.jpg"
 },
 {
     "week": "090620",

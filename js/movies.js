@@ -125,31 +125,31 @@ let moviesData = [{
 },
 {
     "week": "083020",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Fractured",
+    "citation": "Brad Anderson",
+    "link": "https://www.netflix.com/watch/80223997",
+    "img": "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSrkPHFHFt3JHfZOtaq2Naho-W8R0qxyTgNmDuM5etrbqvn_8hBS34qp5co6gh9EeW9I61LmTGx_yGG3ytieoDgjuHdF.jpg?r=054"
 },
 {
     "week": "090620",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "There Will be Blood",
+    "citation": "Paul Thomas Anderson",
+    "link": "https://www.netflix.com/watch/70075473",
+    "img": "https://www.austinchronicle.com/binary/e478/blood.jpg"
 },
 {
     "week": "091320",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Moonlight",
+    "citation": "Barry Jenkins",
+    "link": "https://www.netflix.com/watch/80121348",
+    "img": "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABaPLwIvkc7mjK6ebdlnkRp9HlKKPfOQs25gx_Z5gzjgzbXMWiuIWlowpUQ2FVthxVV_J6phtspa3GLe9a9PsfFMe9_Pz.jpg?r=7bc"
 },
 {
     "week": "092020",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "The King",
+    "citation": "David Michod",
+    "link": "https://www.netflix.com/watch/80182016",
+    "img": "https://i2-prod.mirror.co.uk/incoming/article18981148.ece/ALTERNATES/s1200b/0_TheKingjpeg.jpg"
 },
 {
     "week": "092720",
