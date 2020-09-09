@@ -132,59 +132,59 @@ let websitesData = [{
 },
 {
     "week": "090620",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "See the night sky in your area",
+    "citation": "Stellarium",
+    "link": "https://stellarium-web.org/",
+    "img": "https://img.buzzfeed.com/buzzfeed-static/static/2020-03/18/21/asset/deea4d0073df/sub-buzz-208-1584565688-8.png?downsize=600:*&output-format=auto&output-quality=auto"
 },
 {
     "week": "091320",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "An addictive game",
+    "citation": "2048",
+    "link": 'https://play2048.co/',
+    "img": "https://sourcedigit.com/wp-content/uploads/2014/03/2048-Game1.png"
 },
 {
     "week": "092020",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "A never ending beautiful animation",
+    "citation": "Zoom Quilt",
+    "link": "https://zoomquilt.org/",
+    "img": "https://i.ytimg.com/vi/INqKqk-ifpc/maxresdefault.jpg"
 },
 {
     "week": "092720",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Guess where you are by a picture",
+    "citation": "Geo Guesser",
+    "link": "https://www.geoguessr.com/",
+    "img": "https://img2.thejournal.ie/inline/2008293/original/?width=630&version=2008293"
 },
 {
     "week": "100420",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Play the wikipedia game",
+    "citation": "Wiki Game",
+    "link": "https://www.thewikigame.com/",
+    "img": "https://img2.thejournal.ie/inline/2008359/original/?width=630&version=2008359"
 },
 {
     "week": "101120",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Discover similar bands",
+    "citation": "Music Map",
+    "link": "https://www.music-map.com/",
+    "img": "https://img2.thejournal.ie/inline/2008376/original/?width=630&version=2008376"
 },
 {
     "week": "101820",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Geography Quizzes",
+    "citation": "LizardPoint",
+    "link": "https://lizardpoint.com/geography/index.php",
+    "img": "https://lizardpoint.com/images/geography-screenshot-800.gif"
 },
 {
     "week": "102520",
-    "headline": "WEBSITE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Play the classic game",
+    "citation": "The Oregon Trail",
+    "link": "https://archive.org/details/msdos_Oregon_Trail_Deluxe_The_1992",
+    "img": "https://classicreload.com/sites/default/files/styles/game_image/public/the-oregon-trail-deluxe.png?itok=SkSCXJWF"
 },
 {
     "week": "110120",

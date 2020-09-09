@@ -132,10 +132,10 @@ let funnysData = [{
 },
 {
     "week": "090620",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Drunk Catwalk",
+    "citation": "Reno 911",
+    "link": "https://www.youtube.com/watch?v=D6VQDNIZH7U",
+    "img": "https://i.ytimg.com/vi/D6VQDNIZH7U/sddefault.jpg"
 },
 {
     "week": "091320",

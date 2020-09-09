@@ -132,10 +132,10 @@ const articlesData = [{
 },
 {
     "week": "090620",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "How Chadwick Boseman came to Wakanda",
+    "citation": "BBC",
+    "link": "https://www.bbc.com/news/stories-54014997",
+    "img": "https://ichef.bbci.co.uk/news/800/cpsprodpb/12C36/production/_114245867_976xchadwick1.jpg"
 },
 {
     "week": "091320",
