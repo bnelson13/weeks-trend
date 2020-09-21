@@ -139,17 +139,17 @@ let songsData = [{
 },
 {
     "week": "091320",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "My Silver Lining",
+    "citation": "First Aid Kit",
+    "link": "https://www.youtube.com/watch?v=sNNYtm2XJGc",
+    "img": "https://img.discogs.com/2C2uKIDM1t0Vj-ieYqVO_cfUALs=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6077203-1410460426-8287.jpeg.jpg"
 },
 {
     "week": "092020",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Roboto's Outro",
+    "citation": "PPK",
+    "link": "https://www.youtube.com/watch?v=2OKU4ohLpJI",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51sixkO2vZL._SX342_QL70_ML2_.jpg"
 },
 {
     "week": "092720",

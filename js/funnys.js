@@ -139,17 +139,17 @@ let funnysData = [{
 },
 {
     "week": "091320",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Morning Latte with Producer Ted",
+    "citation": "Classic SNL",
+    "link": "https://www.nbc.com/saturday-night-live/video/morning-latte-producer-ted/2870429",
+    "img": "https://external-preview.redd.it/90mSuQY8iLQqxaz-laBdA4VxMQpv_UCTT0GoZm5V6Nk.jpg?auto=webp&s=a3c67111e841191f4b1f38417309a5d27f5b6f37"
 },
 {
     "week": "092020",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "The Life & Legacy of RGB",
+    "citation": "The Onion",
+    "link": "https://www.theonion.com/the-onion-looks-back-at-the-life-and-legacy-of-ruth-bad-1845130270",
+    "img": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ypmyxic9ftb2op4zmnfr.jpg"
 },
 {
     "week": "092720",

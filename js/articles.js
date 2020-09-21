@@ -139,24 +139,24 @@ const articlesData = [{
 },
 {
     "week": "091320",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "The Costs of Male Entitlement",
+    "citation": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/kate-manne-on-the-costs-of-male-entitlement",
+    "img": "https://media.newyorker.com/photos/5f4fccd07f07707d656e0fe3/master/w_2560%2Cc_limit/Chotiner-KateManneMaleEntitlement.jpg"
 },
 {
     "week": "092020",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "The Supply of Disinformation",
+    "citation": "The Atlantic",
+    "link": "https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/",
+    "img": "https://www.theglobeandmail.com/resizer/sZLOluj5bpRRX1rPACLqikH865E=/3000x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/ELJTVY52R5EHBAFERRYZ6V766A.jpg"
 },
 {
     "week": "092720",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Terrorists & Cartels use Western Banks to launder Money",
+    "citation": "Buzzfeed",
+    "link": "https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks",
+    "img": "https://internationalbanker.com/wp-content/uploads/2020/03/anti-money-laundering.jpg"
 },
 {
     "week": "100420",
