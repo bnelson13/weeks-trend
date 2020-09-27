@@ -1,4 +1,7 @@
 const weeksData = [{
+    "id": "092720",
+    "name": "September 27, 2020"
+},{
     "id": "092020",
     "name": "September 20, 2020"
 },{
@@ -67,9 +70,6 @@ const weeksData = [{
 }]
 
 const futureWeeks = [{
-    "id": "092720",
-    "name": "September 27, 2020"
-},{
     "id": "100420",
     "name": "October 4, 2020"
 },{

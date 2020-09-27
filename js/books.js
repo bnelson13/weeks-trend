@@ -148,15 +148,15 @@ const booksData = [{
     "week": "092020",
     "headline": "Clean Hands",
     "citation": "Patrick Hoffman",
-    "link": "https://amzn.to/3jqhC5h",
+    "link": "https://amzn.to/3jqhC5hcd",
     "img": "https://orion-uploads.openroadmedia.com/lg_b156ac505a84-patrickhoffman_interview.jpg"
 },
 {
     "week": "092720",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "The Water Dancer",
+    "citation": "Ta-Nehisi Coates",
+    "link": "https://amzn.to/3mVPqKg",
+    "img": "https://i.ytimg.com/vi/jlm9E7PxHe4/maxresdefault.jpg"
 },
 {
     "week": "100420",

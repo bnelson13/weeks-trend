@@ -153,10 +153,10 @@ let moviesData = [{
 },
 {
     "week": "092720",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "Enola Holmes",
+    "citation": "Harry Bradbeer",
+    "link": "https://www.netflix.com/watch/81277950",
+    "img": "https://img.cinemablend.com/filter:scale/quill/b/6/3/f/9/a/b63f9a33c74ce9e7fda7c53259ef7976a3dbf56f.jpg?mw=600"
 },
 {
     "week": "100420",

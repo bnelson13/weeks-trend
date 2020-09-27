@@ -153,10 +153,10 @@ let songsData = [{
 },
 {
     "week": "092720",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Choice is Yours",
+    "citation": "Stick Figure",
+    "link": "https://www.youtube.com/watch?v=xV-lMtisZw0",
+    "img": "https://c.saavncdn.com/158/Choice-is-Yours-feat-Slightly-Stoopid-English-2015-500x500.jpg"
 },
 {
     "week": "100420",

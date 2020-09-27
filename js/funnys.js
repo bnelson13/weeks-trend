@@ -153,10 +153,10 @@ let funnysData = [{
 },
 {
     "week": "092720",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Funniest Commericials",
+    "citation": "Youtube",
+    "link": "https://www.youtube.com/watch?v=BifDGUHDzRM",
+    "img": "https://i.ytimg.com/vi/BifDGUHDzRM/hqdefault.jpg"
 },
 {
     "week": "100420",
