@@ -160,24 +160,24 @@ let moviesData = [{
 },
 {
     "week": "100420",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "I'm thinking of Ending Things",
+    "citation": "Charlie Kaufman",
+    "link": "https://www.netflix.com/watch/80211559",
+    "img": "https://static01.nyt.com/images/2020/09/01/arts/07watching-nl-thinking/merlin_176250954_761469ea-43e1-4f80-b578-30f8c56e0fc8-jumbo.jpg"
 },
 {
     "week": "101120",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "The Witches",
+    "citation": "Robert Zemeckis",
+    "link": "https://www.netflix.com/watch/20282991",
+    "img": "https://static01.nyt.com/images/2017/07/14/watching/the-witches-watching-recommendation/the-witches-watching-recommendation-jumbo-v2.jpg"
 },
 {
     "week": "101820",
-    "headline": "MOVIE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80"
+    "headline": "The Trial of the Chicago 7",
+    "citation": "Aaron Sorkin",
+    "link": "https://www.netflix.com/title/81043755",
+    "img": "https://media.vanityfair.com/photos/5f1755daf052016872aefde1/16:9/w_1999,h_1124,c_limit/Trial-of-the-Chicago-7-Lede.jpg"
 },
 {
     "week": "102520",

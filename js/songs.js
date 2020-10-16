@@ -153,31 +153,31 @@ let songsData = [{
 },
 {
     "week": "092720",
+    "headline": "Midnight Sky",
+    "citation": "Miley Cyrus",
+    "link": "https://www.youtube.com/watch?v=aS1no1myeTM",
+    "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F08%2F06%2FMidnight-Sky.jpg&q=85"
+},
+{
+    "week": "100420",
+    "headline": "Mood",
+    "citation": "24kGoldn",
+    "link": "https://www.youtube.com/watch?v=GrAchTdepsU",
+    "img": "https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,pg_1/mcsyut9bqalqusyxpwjd/24kgold-mood"
+},
+{
+    "week": "101120",
     "headline": "Choice is Yours",
     "citation": "Stick Figure",
     "link": "https://www.youtube.com/watch?v=xV-lMtisZw0",
     "img": "https://c.saavncdn.com/158/Choice-is-Yours-feat-Slightly-Stoopid-English-2015-500x500.jpg"
 },
 {
-    "week": "100420",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
-},
-{
-    "week": "101120",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
-},
-{
     "week": "101820",
-    "headline": "SONG",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    "headline": "Dreams",
+    "citation": "Fleetwood Mac",
+    "link": "https://www.youtube.com/watch?v=mrZRURcb1cM",
+    "img": "https://d.newsweek.com/en/full/879297/43-fleetwood-mac-rumours.webp?w=790&f=2583ce7fc1879a28c6ad170cfa22e66e"
 },
 {
     "week": "102520",

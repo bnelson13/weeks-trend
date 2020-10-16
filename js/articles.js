@@ -160,24 +160,24 @@ const articlesData = [{
 },
 {
     "week": "100420",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Trump's Tax Returns Unveiled",
+    "citation": "NY TImes",
+    "link": "https://www.nytimes.com/interactive/2020/09/27/us/donald-trump-taxes.html",
+    "img": "https://static01.nyt.com/images/2020/09/27/multimedia/thing-promo/thing-promo-superJumbo.jpg"
 },
 {
     "week": "101120",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "The Mad Genius of Eddie Van Halen",
+    "citation": "The Atlantic",
+    "link": "https://www.theatlantic.com/culture/archive/2020/10/mad-genius-eddie-van-halen/616684/",
+    "img": "https://cdn.theatlantic.com/thumbor/25wKX7qU1nw4TqJSyiuu5JpQ1Og=/0x74:1200x749/720x405/media/img/mt/2020/10/VAN_HALEN_LIVE_BW_1982_NZ_881200px/original.jpg"
 },
 {
     "week": "101820",
-    "headline": "HEADLINE",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Inside the Fall of the CDC",
+    "citation": "ProPublica",
+    "link": "https://www.propublica.org/article/inside-the-fall-of-the-cdc",
+    "img": "https://cdn.digg.com/optimized/730x400/wp-contentuploads20201015181951test-222.jpg?v=1602858159"
 },
 {
     "week": "102520",

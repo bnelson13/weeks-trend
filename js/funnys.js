@@ -79,7 +79,7 @@ let funnysData = [{
     "headline": "Socially Distant",
     "citation": "The Oatmeal",
     "link": "https://theoatmeal.com/comics/socially_distant",
-    "img": "https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-0/p370x247/91119618_10163478627755078_1162947036312502272_o.png?_nc_cat=1&_nc_sid=85a577&_nc_oc=AQlwRqMOWaOjQu_-PCMua9X2v4gRt33guSlhUY9JKp2OZO030BXxM0BR1UpdfJexcyHR7JnTvSWoHAS9XI4gO75o&_nc_ht=scontent.fapa1-1.fna&oh=2d22e4d0ce295a0b6d7ba01cf93101f6&oe=5F1CC6A2"
+    "img": "https://pbs.twimg.com/media/EVq8QXnVAAAO4Ew.png"
 },
 {
     "week": "071920",
@@ -160,24 +160,24 @@ let funnysData = [{
 },
 {
     "week": "100420",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Most Awkward Moments",
+    "citation": "Youtube",
+    "link": "https://www.youtube.com/watch?v=hOVFzvdORBo",
+    "img": "https://i.ytimg.com/vi/hOVFzvdORBo/hqdefault.jpg"
 },
 {
     "week": "101120",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "VP Debate",
+    "citation": "Saturday Night Live",
+    "link": "https://www.nbc.com/saturday-night-live/video/vp-fly-debate-cold-open/4246186",
+    "img": "https://www.nme.com/wp-content/uploads/2020/10/Jim-Carrey-as-The-Fly.jpg"
 },
 {
     "week": "101820",
-    "headline": "FUNNY",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    "headline": "Link between Book Learning, Back Talk",
+    "citation": "The Onion",
+    "link": "https://www.theonion.com/scientists-discover-dangerous-link-between-book-learnin-1845379402",
+    "img": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,h_824,pg_1,q_60,w_1465/dedevo5yo3jsafv34ul0.jpg"
 },
 {
     "week": "102520",

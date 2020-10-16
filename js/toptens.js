@@ -170,7 +170,7 @@ let toptensData = [{
     "headline": "Fastest Cars for Sale",
     "citation": "Robb Report",
     "link": "https://robbreport.com/motors/cars/fastest-production-cars-2846250/",
-    "img": "https://robbreportedit.files.wordpress.com/2020/03/devel-sixteen.jpg"
+    "img": "https://robbreport.com/wp-content/uploads/2019/05/06_rr_bob_wheel_mclaren-3.jpg"
 },
 {
     "week": "101820",

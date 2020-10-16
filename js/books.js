@@ -93,7 +93,7 @@ const booksData = [{
     "headline": "Deacon King Kong",
     "citation": "James McBride",
     "link": "https://amzn.to/3i0YtXM",
-    "img": "https://www.nypl.org/sites/default/files/mcbride-2.png"
+    "img": "https://www.barnesandnoble.com/blog/barnesy/wp-content/nas-uploads/2020/02/JamesMcBride-575x362.jpg"
 },
 {
     "week": "080220",
@@ -160,24 +160,24 @@ const booksData = [{
 },
 {
     "week": "100420",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "How Much of These Hills Is Gold",
+    "citation": "C Pam Zhang",
+    "link": "https://amzn.to/2HeOQa8",
+    "img": "https://rsvpa.witf.org/wp-content/uploads/2020/03/Untitled-6.jpg"
 },
 {
     "week": "101120",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "The Cold Millions",
+    "citation": "Jess Walter",
+    "link": "https://amzn.to/3nWDM1X",
+    "img": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/073/73518-1.JPG"
 },
 {
     "week": "101820",
-    "headline": "BOOK",
-    "citation": "Citation",
-    "link": "#",
-    "img": "https://images.unsplash.com/photo-1450107579224-2d9b2bf1adc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    "headline": "Leave the World Behind",
+    "citation": "Rumaan Alam",
+    "link": "https://amzn.to/3dxIvCt",
+    "img": "https://static.onecms.io/wp-content/uploads/sites/6/2020/09/17/Rumaan-Alam.jpg"
 },
 {
     "week": "102520",

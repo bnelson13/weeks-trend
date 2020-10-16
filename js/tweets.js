@@ -22,28 +22,28 @@ let tweetsData = [{
     "week": "051720",
     "headline": "@bessbell",
     "citation": "Citation",
-    "link": "https://twitter.com/bessbell/status/1259523191686324224?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1259523191686324224&ref_url=https%3A%2F%2Fwww.huffpost.com%2Fentry%2Ffunniest-parenting-tweets_l_5eb9669cc5b6864db2079254",
+    "link": "https://twitter.com/bessbell/status/1259523191686324224",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "052420",
     "headline": "@karencheee",
     "citation": "Citation",
-    "link": "https://twitter.com/karencheee/status/1263077562051366919?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1263077562051366919%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.huffpost.com%2Fentry%2Fthe-20-funniest-tweets-from-women-this-week-may-16-22_n_5ec1fbfac5b603f620724bb4",
+    "link": "https://twitter.com/karencheee/status/1263077562051366919",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "053120",
     "headline": "@Ruth_A_Buzzi",
     "citation": "Citation",
-    "link": "https://twitter.com/Ruth_A_Buzzi/status/1261511574117855238?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1261511574117855238%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.huffpost.com%2Fentry%2Fthe-20-funniest-tweets-from-women-this-week-may-16-22_n_5ec1fbfac5b603f620724bb4",
+    "link": "https://twitter.com/Ruth_A_Buzzi/status/1261511574117855238",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "060720",
     "headline": "@laurapeek_",
     "citation": "Citation",
-    "link": "https://twitter.com/laurapeek_/status/1264950842022432769?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1264950842022432769&ref_url=https%3A%2F%2Fwww.huffpost.com%2Fentry%2Fthe-20-funniest-tweets-from-women-this-week-may-23-29_n_5ecaf958c5b69baf89fdcafc",
+    "link": "https://twitter.com/laurapeek_/status/1264950842022432769",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
@@ -127,63 +127,63 @@ let tweetsData = [{
     "week": "083020",
     "headline": "@melbreezy_",
     "citation": "Citation",
-    "link": "https://twitter.com/Melbreezy_/status/1241116605360340993?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1241116605360340993%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
+    "link": "https://twitter.com/Melbreezy_/status/1241116605360340993",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "090620",
     "headline": "@prufrockluvsong",
     "citation": "Citation",
-    "link": "https://twitter.com/prufrockluvsong/status/1219735129947398144?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1219735129947398144%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
+    "link": "https://twitter.com/prufrockluvsong/status/1219735129947398144",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "091320",
     "headline": "@b8tch_updates",
     "citation": "Citation",
-    "link": "https://twitter.com/b8tch_updates/status/1243656750588362760?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1243656750588362760%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
+    "link": "https://twitter.com/b8tch_updates/status/1243656750588362760",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "092020",
     "headline": "@magadlenapazz22",
     "citation": "Citation",
-    "link": "https://twitter.com/magdalenapaz22/status/1239577067513098240?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1239577067513098240%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
+    "link": "https://twitter.com/magdalenapaz22/status/1239577067513098240",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "092720",
     "headline": "@shoshmcgosh",
     "citation": "Citation",
-    "link": "https://twitter.com/shoshmcgosh/status/1219781290565619712?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1219781290565619712%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
+    "link": "https://twitter.com/shoshmcgosh/status/1219781290565619712",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "100420",
     "headline": "@_CakeBawse",
     "citation": "Citation",
-    "link": "https://twitter.com/_CakeBawse/status/1217506575696506880?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1217506575696506880%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.buzzfeed.com%2Fajanibazile%2F2020-tweets-100k-likes",
+    "link": "https://twitter.com/_CakeBawse/status/1217506575696506880",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "101120",
-    "headline": "TITLE",
+    "headline": "@sarahclazarus",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/sarahclazarus/status/1313343311562731520",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "101820",
-    "headline": "TITLE",
+    "headline": "@sarahcpr",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/sarahcpr/status/1313141744519839744",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
     "week": "102520",
-    "headline": "TITLE",
+    "headline": "@crazytott",
     "citation": "Citation",
-    "link": "#",
+    "link": "https://twitter.com/crazytott/status/1313092696165187584",
     "img": "https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
 },
 {
