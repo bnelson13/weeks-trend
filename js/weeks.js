@@ -1,5 +1,9 @@
 const weeksData = [
     {
+        id: '102520',
+        name: 'October 25, 2020',
+    },
+    {
         id: '101820',
         name: 'October 18, 2020',
     },
@@ -106,10 +110,6 @@ const weeksData = [
 ];
 
 const futureWeeks = [
-    {
-        id: '102520',
-        name: 'October 25, 2020',
-    },
     {
         id: '110120',
         name: 'November 1, 2020',
