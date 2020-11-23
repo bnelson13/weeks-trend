@@ -97,8 +97,8 @@ let funnysData = [
   },
   {
     week: '072620',
-    headline: 'Drunk History',
-    citation: 'Funny or Die',
+    headline: 'The Civil War',
+    citation: 'Drunk History',
     link: 'https://www.youtube.com/watch?v=ipV2u-MxlFc',
     img: 'https://lrairportshuttle.com/images/site/Screen_Shot_2016-04-27_at_12.34.19_PM.png',
   },
@@ -214,35 +214,33 @@ let funnysData = [
   },
   {
     week: '111520',
-    headline: 'FUNNY',
-    citation: 'Citation',
-    link: '#',
+    headline: 'Aerobic Meltdown',
+    citation: 'Key & Peele',
+    link: 'https://www.youtube.com/watch?v=4k-Dd71CqnM',
     img:
-      'https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+      'https://static0.srcdn.com/wordpress/wp-content/uploads/2019/03/Key-and-Peele-Aerobics-Meltdown.jpg?q=50&fit=crop&w=740&h=493',
   },
   {
     week: '112220',
-    headline: 'FUNNY',
-    citation: 'Citation',
-    link: '#',
+    headline: 'Giuliani Ready to Present',
+    citation: 'The Onion',
+    link: 'https://politics.theonion.com/your-honor-i-m-ready-to-present-says-giuliani-pulli-1845716203',
     img:
-      'https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+      'https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/ecrtkexfnemcofsc4aag.jpg',
   },
   {
     week: '112920',
-    headline: 'FUNNY',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+    headline: 'Matthew McConaughey',
+    citation: 'Between Two Ferns',
+    link: 'https://www.youtube.com/watch?v=XHk6jKWRi8A',
+    img: 'https://i.ytimg.com/vi/0pLnxE_6f5Q/maxresdefault.jpg',
   },
   {
     week: '120620',
-    headline: 'FUNNY',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+    headline: 'Charles Dickens',
+    citation: 'Drunk History',
+    link: 'https://www.youtube.com/watch?v=fv7RGAYukiw',
+    img: 'https://uproxx.com/wp-content/uploads/2018/12/dhc2-jpg.jpg',
   },
   {
     week: '121320',
@@ -254,11 +252,10 @@ let funnysData = [
   },
   {
     week: '122020',
-    headline: 'FUNNY',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+    headline: "NPR's Delicious Dish",
+    citation: 'SNL',
+    link: 'https://www.youtube.com/watch?v=bPpcfH_HHH8',
+    img: 'https://bestclassicbands.com/wp-content/uploads/2015/10/SNL-Schweddy-Balls-e1450883209631.png',
   },
   {
     week: '122720',

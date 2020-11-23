@@ -231,35 +231,31 @@ let songsData = [
   },
   {
     week: '120620',
-    headline: 'SONG',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80',
+    headline: 'Some Feeling',
+    citation: 'Mild Orange',
+    link: 'https://www.youtube.com/watch?v=6I44IYGyB_4',
+    img: 'https://i1.sndcdn.com/artworks-000341955555-67i1p5-t500x500.jpg',
   },
   {
     week: '121320',
-    headline: 'SONG',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80',
+    headline: 'Home',
+    citation: 'Solomun',
+    link: 'https://www.youtube.com/watch?v=5Fc9A6mLHJU',
+    img: 'https://i0.wp.com/electronicgroove.com/wp-content/uploads/2018/11/Solomun-1.jpg',
   },
   {
     week: '122020',
-    headline: 'SONG',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80',
+    headline: 'Under the Pressure',
+    citation: 'The War on Drugs',
+    link: 'https://www.youtube.com/watch?v=vkLOg252KRE',
+    img: 'https://i.ytimg.com/vi/Y5DzTaYakLo/maxresdefault.jpg',
   },
   {
     week: '122720',
-    headline: 'SONG',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80',
+    headline: 'Stay Alive',
+    citation: 'Jose Gonzalez',
+    link: 'https://www.youtube.com/watch?v=_HWRGKfSq3A',
+    img: 'https://i.ytimg.com/vi/bvjNyJ8TBNk/maxresdefault.jpg',
   },
   {
     week: '010321',

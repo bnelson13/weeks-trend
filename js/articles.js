@@ -182,7 +182,7 @@ const articlesData = [
   {
     week: '100420',
     headline: "Trump's Tax Returns Unveiled",
-    citation: 'NY TImes',
+    citation: 'New York TImes',
     link: 'https://www.nytimes.com/interactive/2020/09/27/us/donald-trump-taxes.html',
     img: 'https://static01.nyt.com/images/2020/09/27/multimedia/thing-promo/thing-promo-superJumbo.jpg',
   },
@@ -220,27 +220,24 @@ const articlesData = [
   },
   {
     week: '110820',
-    headline: 'HEADLINE',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+    headline: 'Great Turnout, but Our Voting System is Flawed',
+    citation: 'New York Times',
+    link: 'https://www.nytimes.com/2020/11/04/opinion/election-day-voting.html',
+    img: 'https://static01.nyt.com/images/2020/11/04/opinion/04manjooWeb/04manjooWeb-jumbo.jpg?quality=90&auto=webp',
   },
   {
     week: '111520',
-    headline: 'HEADLINE',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+    headline: "Long-term Damage of Trump's Anti-democratic lies",
+    citation: 'The New Yorker',
+    link: 'https://www.newyorker.com/news/our-columnists/the-long-term-damage-of-trumps-antidemocratic-lies',
+    img: 'https://media.newyorker.com/photos/5faeb80147076cd7d378d324/master/w_2560%2Cc_limit/Cassidy-TrumpsDamage.jpg',
   },
   {
     week: '112220',
-    headline: 'HEADLINE',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+    headline: 'The Last Children of Down Sydrome',
+    citation: 'The Atlantic',
+    link: 'https://www.theatlantic.com/magazine/archive/2020/12/the-last-children-of-down-syndrome/616928/',
+    img: 'https://cdn.theatlantic.com/assets/media/img/2020/11/WEL_Zhang_Downs_1/original.jpg',
   },
   {
     week: '112920',
