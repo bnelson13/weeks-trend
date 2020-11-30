@@ -244,11 +244,10 @@ let funnysData = [
   },
   {
     week: '121320',
-    headline: 'FUNNY',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+    headline: 'Great Day',
+    citation: 'SNL',
+    link: 'https://www.youtube.com/watch?v=vNgZJrdTCug',
+    img: 'https://i.ytimg.com/vi/WRu_-9MBpd4/maxresdefault.jpg',
   },
   {
     week: '122020',
@@ -259,11 +258,10 @@ let funnysData = [
   },
   {
     week: '122720',
-    headline: 'FUNNY',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1535728534313-e206f59bed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
+    headline: 'Funniest Moments',
+    citation: 'Impractical Jokers',
+    link: 'https://www.youtube.com/watch?v=PRpSZrMJcgU',
+    img: 'https://i.pinimg.com/originals/e1/a1/3c/e1a13c6f2a43922cde3f8a1abfd7e934.jpg',
   },
   {
     week: '010321',

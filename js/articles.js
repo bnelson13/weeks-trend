@@ -241,19 +241,17 @@ const articlesData = [
   },
   {
     week: '112920',
-    headline: 'HEADLINE',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+    headline: 'The Vaccine Breakthrough',
+    citation: 'The Week',
+    link: 'https://theweek.com/articles/951881/vaccine-breakthrough',
+    img: 'https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/istock-1219398943.jpg.webp',
   },
   {
     week: '120620',
-    headline: 'HEADLINE',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+    headline: '1918 Germany has a warning for America',
+    citation: 'New York Times',
+    link: 'https://www.nytimes.com/2020/11/30/opinion/trump-conspiracy-germany-1918.html',
+    img: 'https://static01.nyt.com/images/2020/11/30/opinion/30bittnerWeb/30bittnerWeb-superJumbo.jpg',
   },
   {
     week: '121320',
