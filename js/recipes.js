@@ -243,7 +243,7 @@ let recipesData = [
     citation: 'Garlic & Zest',
     link: 'https://www.garlicandzest.com/mint-chimichurri-lamb-chops/',
     img:
-      'https://cdn-afnhm.nitrocdn.com/NvylmIhtjVQilPQPpPrYcnocaLcpeJVK/assets/static/optimized/rev-881321b/wp-content/uploads/2018/04/LAMB-CHIMICHURRI.jpg',
+      'https://i2.wp.com/www.primaverakitchen.com/wp-content/uploads/2019/07/Grilled-Lamb-Chops-with-Chimichurri-Sauce-Primavera-Kitchen-1-1.jpg',
   },
   {
     week: '122020',

@@ -255,11 +255,11 @@ const articlesData = [
   },
   {
     week: '121320',
-    headline: 'HEADLINE',
-    citation: 'Citation',
-    link: '#',
+    headline: 'The GOP Abandons Democracy',
+    citation: 'The Atlantic',
+    link: 'https://www.theatlantic.com/ideas/archive/2020/12/republican-party-abandoning-democracy/617359/',
     img:
-      'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+      'https://cdn.theatlantic.com/thumbor/zChQE-XGcwdyC8wneePX0zQR08I=/0x0:5503x3095/720x405/https://cdn.theatlantic.com/assets/media/img/mt/2020/12/GettyImages_1229932649/original.jpg',
   },
   {
     week: '122020',

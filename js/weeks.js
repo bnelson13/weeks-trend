@@ -1,5 +1,9 @@
 const weeksData = [
   {
+    id: '121320',
+    name: 'December 13, 2020',
+  },
+  {
     id: '120620',
     name: 'December 6, 2020',
   },
@@ -135,10 +139,6 @@ const weeksData = [
 
 const futureWeeks = [
   {
-    id: '121320',
-    name: 'December 13, 2020',
-  },
-  {
     id: '122020',
     name: 'December 20, 2020',
   },
@@ -149,5 +149,17 @@ const futureWeeks = [
   {
     id: '010321',
     name: 'January 3, 2020',
+  },
+  {
+    id: '011021',
+    name: 'January 10, 2020',
+  },
+  {
+    id: '011721',
+    name: 'January 17, 2020',
+  },
+  {
+    id: '012421',
+    name: 'January 24, 2020',
   },
 ];
