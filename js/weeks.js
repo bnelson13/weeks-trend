@@ -1,5 +1,9 @@
 const weeksData = [
   {
+    id: '122020',
+    name: 'December 20, 2020',
+  },
+  {
     id: '121320',
     name: 'December 13, 2020',
   },
@@ -139,27 +143,215 @@ const weeksData = [
 
 const futureWeeks = [
   {
-    id: '122020',
-    name: 'December 20, 2020',
-  },
-  {
     id: '122720',
     name: 'December 27, 2020',
   },
   {
     id: '010321',
-    name: 'January 3, 2020',
+    name: 'January 3, 2021',
   },
   {
     id: '011021',
-    name: 'January 10, 2020',
+    name: 'January 10, 2021',
   },
   {
     id: '011721',
-    name: 'January 17, 2020',
+    name: 'January 17, 2021',
   },
   {
     id: '012421',
-    name: 'January 24, 2020',
+    name: 'January 24, 2021',
+  },
+  {
+    id: '013121',
+    name: 'January 31, 2021',
+  },
+  {
+    id: '020721',
+    name: 'February 7, 2021',
+  },
+  {
+    id: '021421',
+    name: 'February 14, 2021',
+  },
+  {
+    id: '022121',
+    name: 'February 21, 2021',
+  },
+  {
+    id: '022821',
+    name: 'February 28, 2021',
+  },
+  {
+    id: '030721',
+    name: 'March 7, 2021',
+  },
+  {
+    id: '031421',
+    name: 'March 14, 2021',
+  },
+  {
+    id: '032821',
+    name: 'March 28, 2021',
+  },
+  {
+    id: '040421',
+    name: 'April 4, 2021',
+  },
+  {
+    id: '041121',
+    name: 'April 11, 2021',
+  },
+  {
+    id: '041825',
+    name: 'April 18, 2021',
+  },
+  {
+    id: '042521',
+    name: 'April 25, 2021',
+  },
+  {
+    id: '050221',
+    name: 'May 2, 2021',
+  },
+  {
+    id: '050921',
+    name: 'May 9, 2021',
+  },
+  {
+    id: '051621',
+    name: 'May 16, 2021',
+  },
+  {
+    id: '052321',
+    name: 'May 23, 2021',
+  },
+  {
+    id: '053021',
+    name: 'May 30, 2021',
+  },
+  {
+    id: '060621',
+    name: 'June 6, 2021',
+  },
+  {
+    id: '061321',
+    name: 'June 13, 2021',
+  },
+  {
+    id: '062021',
+    name: 'June 20, 2021',
+  },
+  {
+    id: '062721',
+    name: 'June 27, 2021',
+  },
+  {
+    id: '070421',
+    name: 'July 4, 2021',
+  },
+  {
+    id: '071121',
+    name: 'July 11, 2021',
+  },
+  {
+    id: '071821',
+    name: 'July 18, 2021',
+  },
+  {
+    id: '072521',
+    name: 'July 25, 2021',
+  },
+  {
+    id: '080121',
+    name: 'August 1, 2021',
+  },
+  {
+    id: '080821',
+    name: 'August 8, 2021',
+  },
+  {
+    id: '081521',
+    name: 'August 15, 2021',
+  },
+  {
+    id: '082221',
+    name: 'August 22, 2021',
+  },
+  {
+    id: '082921',
+    name: 'August 29, 2021',
+  },
+  {
+    id: '090521',
+    name: 'September 5, 2021',
+  },
+  {
+    id: '091221',
+    name: 'September 12, 2021',
+  },
+  {
+    id: '091921',
+    name: 'September 19, 2021',
+  },
+  {
+    id: '092621',
+    name: 'September 26, 2021',
+  },
+  {
+    id: '100321',
+    name: 'October 3, 2021',
+  },
+  {
+    id: '101021',
+    name: 'October 10, 2021',
+  },
+  {
+    id: '101721',
+    name: 'October 17, 2021',
+  },
+  {
+    id: '102421',
+    name: 'October 24, 2021',
+  },
+  {
+    id: '103121',
+    name: 'October 31, 2021',
+  },
+  {
+    id: '110721',
+    name: 'November 7, 2021',
+  },
+  {
+    id: '111421',
+    name: 'November 14, 2021',
+  },
+  {
+    id: '112121',
+    name: 'November 21, 2021',
+  },
+  {
+    id: '112821',
+    name: 'November 28, 2021',
+  },
+  {
+    id: '120521',
+    name: 'December 5, 2021',
+  },
+  {
+    id: '121221',
+    name: 'December 12, 2021',
+  },
+  {
+    id: '121921',
+    name: 'December 19, 2021',
+  },
+  {
+    id: '122621',
+    name: 'December 26, 2021',
+  },
+  {
+    id: '010222',
+    name: 'January 2, 2022',
   },
 ];

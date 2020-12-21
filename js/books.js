@@ -270,4 +270,427 @@ const booksData = [
     link: 'https://www.amazon.com/Hidden-Valley-Road-Inside-American/dp/038554376X',
     img: 'https://hazlitt.net/sites/default/files/field/image/kolker-main.jpg',
   },
+  {
+    week: '011021',
+    headline: 'The Vanishing Half',
+    citation: 'Brit Bennet',
+    link: 'https://deadline.com/wp-content/uploads/2020/06/vanishing-half-brit-bennett.jpg',
+    img:
+      'https://www.amazon.com/Vanishing-Half-Novel-Brit-Bennett/dp/0525536299/ref=sr_1_1?dchild=1&keywords=the+vanishing+half+brit+bennett&qid=1608166930&sr=8-1a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '011721',
+    headline: 'Transcendent Kingdom',
+    citation: 'Yaa Gyasi',
+    link:
+      'https://www.sfexaminer.com/wp-content/uploads/2020/09/22835456_web1_200930-SFE-KingdomBookReview-Gyasi_1-1280x720.jpg',
+    img:
+      'https://www.amazon.com/Transcendent-Kingdom-novel-Yaa-Gyasi/dp/0525658181/ref=sr_1_1?dchild=1&keywords=Transcendent+Kingdom+Yaa+Gyasi&qid=1608166951&sr=8-18.jpg',
+  },
+  {
+    week: '012421',
+    headline: 'Luster: A Novel',
+    citation: 'Raven Leilani',
+    link:
+      'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F08%2F03%2FLuster.jpg&q=85',
+    img:
+      'https://www.amazon.com/Luster-Novel-Raven-Leilani/dp/0374194327/ref=sr_1_1?dchild=1&keywords=Luster%3A+A+Novel+Raven+Leilani&qid=1608166965&sr=8-1',
+  },
+  {
+    week: '013121',
+    headline: 'Hamnet',
+    citation: "Maggie O'FarrellOR",
+    link: 'https://www.straitstimes.com/sites/default/files/articles/2020/04/14/st_20200414_wlhamnet1b9k_55957541.jpg',
+    img:
+      'https://www.amazon.com/Hamnet-Maggie-OFarrell/dp/0525657606/ref=sr_1_1?dchild=1&keywords=Hamnet+Maggie+O%27Farrell&qid=1608166975&sr=8-1ck_135114548.jpg',
+  },
+  {
+    week: '020721',
+    headline: 'Memorial',
+    citation: 'Bryan Washington',
+    link:
+      'https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GORWVUAXR4I6XPX3RBSCLG6S3A.jpg&w=1200',
+    img:
+      'https://www.amazon.com/Memorial-Novel-Bryan-Washington/dp/0593087275/ref=sr_1_1?dchild=1&keywords=Memorial+Bryan+Washington&qid=1608166989&sr=8-1',
+  },
+  {
+    week: '021421',
+    headline: 'Homeland Elegies',
+    citation: 'Ayad Akhtar',
+    link: 'https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AYSNXRHLVUI6VGNBOE2D2A54FE.jpg',
+    img: 'https://www.amazon.com/Homeland-Elegies-Novel-Ayad-Akhtar/dp/0316496421terstock_135114548.jpg',
+  },
+  {
+    week: '022121',
+    headline: 'The Mirror & The Light',
+    citation: 'Hilary Mantel',
+    link:
+      'https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/02/25/12/hilary-mantel-the-mirror-and-the-light.jpg',
+    img:
+      'https://www.amazon.com/Mirror-Light-Hilary-Mantel/dp/0805096604/ref=sr_1_1?dchild=1&keywords=The+Mirror+%26+The+Light+Hilary+Mantel&qid=1608167019&s=books&sr=1-1.jpg',
+  },
+  {
+    week: '022821',
+    headline: 'The Office of Historical Corrections',
+    citation: 'Danielle Evans',
+    link: 'https://i2.wp.com/phoebejournal.com/wp-content/uploads/2020/10/Evans-2.jpg?fit=2560%2C1920&ssl=1',
+    img:
+      'https://www.amazon.com/Office-Historical-Corrections-Novella-Stories/dp/1594487332/ref=sr_1_1?dchild=1&keywords=The+Office+of+Historical+Corrections+Danielle+Evans&qid=1608167030&s=books&sr=1-1shutterstock_135114548.jpg',
+  },
+  {
+    week: '030721',
+    headline: 'Weather',
+    citation: 'Jenny OffillR',
+    link:
+      'https://cdn.vox-cdn.com/thumbor/rTqKVdTX6uyKx4GqzHC1BPlx-Nk=/0x0:1800x1200/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/66337470/headshots_1582131575835.0.jpg',
+    img:
+      'https://www.amazon.com/American-Weather-novel-Jenny-Offill/dp/0385351100/ref=sr_1_1?dchild=1&keywords=Weather+Jenny+Offill&qid=1608167042&s=books&sr=1-1',
+  },
+  {
+    week: '031421',
+    headline: 'When No ONe is Watching',
+    citation: 'Alyssa Cole',
+    link:
+      'https://img.buzzfeed.com/buzzfeed-static/static/2020-07/30/20/enhanced/12fa57a8899d/original-13591-1596141065-21.jpg?crop=1223:611;0,18',
+    img:
+      'https://www.amazon.com/When-No-One-Watching-Thriller/dp/0062982656/ref=sr_1_1?dchild=1&keywords=When+No+ONe+is+Watching+Alyssa+Cole&qid=1608167053&s=books&sr=1-1',
+  },
+  {
+    week: '032821',
+    headline: 'The New Wilderness',
+    citation: 'Diane Cook',
+    link: 'https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JKDAFRXATYI6VNU3MT33AR362Q.jpg',
+    img:
+      'https://www.amazon.com/New-Wilderness-Diane-Cook/dp/0062333135/ref=sr_1_1?dchild=1&keywords=The+New+Wilderness+Diane+Cook&qid=1608167066&s=books&sr=1-1terstock_135114548.jpg',
+  },
+  {
+    week: '040421',
+    headline: 'Notes on a Silencing',
+    citation: 'Lacy Crawford',
+    link: 'https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376VKF4MUI6VDHVTQNY274EYY.jpg',
+    img:
+      'https://www.amazon.com/Notes-Silencing-Memoir-Lacy-Crawford/dp/0316491551/ref=sr_1_1?dchild=1&keywords=Notes+on+a+Silencing+Lacy+Crawford&qid=1608167080&s=books&sr=1-1terstock_135114548.jpg',
+  },
+  {
+    week: '041121',
+    headline: 'The Only Good Indians',
+    citation: 'Stephen Graham Jones',
+    link: 'https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DOELJWGGXQI6VMBX7FYR7CPOIY.jpg',
+    img:
+      'https://www.amazon.com/Only-Indians-Stephen-Graham-Jones/dp/1982136456/ref=sr_1_1?dchild=1&keywords=The+Only+Good+Indians+Stephen+Graham+Jones&qid=1608167091&s=books&sr=1-1terstock_135114548.jpg',
+  },
+  {
+    week: '041825',
+    headline: 'The Dragons, The Giant, The Women',
+    citation: 'Wayetu Moore',
+    link: 'https://brittlepaper.com/wp-content/uploads/2020/06/Moore-2.png',
+    img:
+      'https://www.amazon.com/Dragons-Giant-Women-Memoir/dp/1644450313/ref=sr_1_1?dchild=1&keywords=the+dragons%2C+the+giant%2C+the+women+way%C3%A9tu+moore&qid=1608167707&s=books&sr=1-130026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '042521',
+    headline: 'The Night Watchman',
+    citation: 'Louise Erdrich',
+    link:
+      'https://lh3.googleusercontent.com/proxy/ctQOykik8JzBM32ySyVSXHQNa7-QvEM8noNusJsnrHGNq7AiJ-jQGjsJkRkGcFIaMRaxH-xHxNZ5DDnsUaTf_rBP2MfHVOYQFgjhmNMFmtecGvqqpogRcqT0IU7KuAYEC_H4PZKkNd1mgfXETJdGZpPhKXbqt6asGZ1xFota9ys_YSw',
+    img:
+      'https://www.amazon.com/Night-Watchman-Louise-Erdrich/dp/0062671189/ref=sr_1_1?dchild=1&keywords=The+Night+Watchman+Louise+Erdrich&qid=1608167605&s=books&sr=1-1',
+  },
+  {
+    week: '050221',
+    headline: 'What Are You Going Through',
+    citation: 'Sigrid Nunez',
+    link: 'https://www.semcoop.com/sites/www.semcoop.com/files/uploaded-images/nunez_collage.jpg',
+    img:
+      'https://www.amazon.com/What-Are-You-Going-Through/dp/0593191412/ref=sr_1_1?dchild=1&keywords=What+Are+You+Going+Through+Sigrid+Nunez&qid=1608167679&s=books&sr=1-1063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '050921',
+    headline: 'My Dark Vanessa',
+    citation: 'Kate Elizabeth Russell',
+    link: 'https://static.onecms.io/wp-content/uploads/sites/6/2020/03/my-dark-vanessa-2000.jpg',
+    img:
+      'https://www.amazon.com/Dark-Vanessa-Kate-Elizabeth-Russell/dp/006294150X/ref=sr_1_1?dchild=1&keywords=My+Dark+Vanessa+Kate+Elizabeth+Russell&qid=1608167826&s=books&sr=1-10063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '051621',
+    headline: 'Blacktop Wasteland',
+    citation: 'SA Cosby',
+    link: 'https://crowdcast-prod.imgix.net/-MHR_87Yy0sRHj2ADFpy/event-cover-9331',
+    img:
+      'https://www.amazon.com/Blacktop-Wasteland-Novel-Shawn-Cosby/dp/1250252687/ref=sr_1_1?dchild=1&keywords=Blacktop+Wasteland+SA+Cosby&qid=1608167839&s=books&sr=1-13d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '052321',
+    headline: 'Plain Bad Heroines',
+    citation: 'Emily Danforth',
+    link:
+      'https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B3XWMEQNQUI6XCRVEN7PD2ZO64.jpg&w=1200',
+    img:
+      'https://www.amazon.com/Plain-Bad-Heroines-Emily-Danforth/dp/0062942859/ref=sr_1_1?dchild=1&keywords=Plain+Bad+Heroines+Emily+Danforth&qid=1608167864&s=books&sr=1-1',
+  },
+  {
+    week: '053021',
+    headline: 'Actress',
+    citation: 'Anne Enright',
+    link:
+      'https://www.straitstimes.com/sites/default/files/styles/article_pictrure_780x520_/public/articles/2020/03/09/yq-c2-09032020.jpg?itok=FOAIzZF-&timestamp=1583737633',
+    img:
+      'https://www.amazon.com/Actress-Novel-Anne-Enright/dp/1324005629/ref=sr_1_1?dchild=1&keywords=Actress+Anne+Enright&qid=1608167933&s=books&sr=1-1',
+  },
+  {
+    week: '060621',
+    headline: 'The Splendid & the Vile',
+    citation: 'Erik Larson',
+    link:
+      'https://www.rainydaybooks.com/sites/rainydaybooks.com/files/styles/large/public/author_photo/Erik%20Larson%20Photo%20and%20Hardcover%2011132019.jpg?itok=NFUVji57',
+    img:
+      'https://www.amazon.com/Splendid-Vile-Churchill-Family-Defiance/dp/0385348711/ref=sr_1_1?dchild=1&keywords=The+Splendid+%26+the+Vile+Erik+Larson&qid=1608167943&s=books&sr=1-1',
+  },
+  {
+    week: '061321',
+    headline: 'Jack',
+    citation: 'Marilynne Robinson1',
+    link: 'https://www.92y.org/92streety/media/img/poetry/lg/marilynne-robinson-2.jpg',
+    img:
+      'https://www.amazon.com/Jack-Novel-Marilynne-Robinson/dp/0374279306/ref=sr_1_1?dchild=1&keywords=Jack+Marilynne+Robinson&qid=1608167960&s=books&sr=1-1e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '062021',
+    headline: 'Sharks in the Time of Saviors',
+    citation: 'Kawai Washburn',
+    link:
+      'https://media.vanityfair.com/photos/5e6bd9353b0b7b000870884f/4:3/w_1776,h_1332,c_limit/Kawai-Strong-Washburn-Interview.png',
+    img:
+      'https://www.amazon.com/Sharks-Saviors-Kawai-Strong-Washburn/dp/0374272085/ref=sr_1_1?dchild=1&keywords=Sharks+in+the+Time+of+Saviors+Kawai+Washburn&qid=1608167969&s=books&sr=1-1',
+  },
+  {
+    week: '062721',
+    headline: 'The Undocumentad Americans',
+    citation: 'Karla Villavinencio',
+    link:
+      'https://i0.wp.com/www.paperbackparis.com/wp-content/uploads/2020/03/Karla-Cornejo-Villavicencio-The-Undocumented-Americans-Book-Review.png?fit=1100%2C733',
+    img:
+      'https://www.amazon.com/Undocumented-America-Karla-Cornejo-Villavicencio/dp/0399592687/ref=sr_1_1?dchild=1&keywords=the+undocumented+americans+karla+villavicencio&qid=1608167980&s=books&sr=1-1',
+  },
+  {
+    week: '070421',
+    headline: 'The Dead Are Arising',
+    citation: 'Les & Tamara Payne',
+    link:
+      'https://calendar.artsboston.org/wp-content/uploads/sites/calendar.artsboston.org/images/2020/10/event-featured-Cou-1603827253-394x300.jpeg',
+    img:
+      'https://www.amazon.com/Dead-Are-Arising-Life-Malcolm/dp/1631491660/ref=sr_1_1?dchild=1&keywords=The+Dead+Are+Arising+Les+%26+Tamara+Payne&qid=1608167991&s=books&sr=1-1',
+  },
+  {
+    week: '071121',
+    headline: 'Mexican Gothic',
+    citation: 'Silvia Moreno-Garcia',
+    link:
+      'https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B1100%2C0%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F08%2F24%2FMexican-Gothic.jpg',
+    img:
+      'https://www.amazon.com/Mexican-Gothic-Silvia-Moreno-Garcia/dp/0525620788/ref=sr_1_1?dchild=1&keywords=Mexican+Gothic+Silvia+Moreno-Garcia&qid=1608168002&s=books&sr=1-1',
+  },
+  {
+    week: '071821',
+    headline: 'Vesper Flights',
+    citation: 'Helen Macdonald',
+    link: 'https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/071/71963-1.JPG',
+    img:
+      'https://www.amazon.com/Vesper-Flights/dp/0802128815/ref=sr_1_1?dchild=1&keywords=Vesper+Flights+Helen+Macdonald&qid=1608168013&s=books&sr=1-10063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '072521',
+    headline: 'Hood Feminism',
+    citation: 'Mikki Kendall',
+    link: 'https://www.semcoop.com/sites/www.semcoop.com/files/uploaded-images/KendallCollage_Web.jpg',
+    img:
+      'https://www.amazon.com/Hood-Feminism-Notes-Movement-Forgot/dp/0525560548/ref=sr_1_1?dchild=1&keywords=Hood+Feminism+Mikki+Kendall&qid=1608168023&s=books&sr=1-16ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '080121',
+    headline: 'The Death of Vicek Oji',
+    citation: 'Akwaeke Emezi',
+    link:
+      'https://format-com-cld-res.cloudinary.com/image/private/s--D9_tBDgx--/c_crop,h_2732,w_3824,x_0,y_0/c_fill,g_center,h_1200,w_1600/fl_keep_iptc.progressive,q_95/v1/c6eeb6b52ee737b65c4a14d6efe173ca/tdovo_diptych_JPG.jpg',
+    img:
+      'https://www.amazon.com/Death-Vivek-Oji-Novel/dp/0525541608/ref=sr_1_1?dchild=1&keywords=the+death+of+vivek+oji+akwaeke+emezi&qid=1608168055&s=books&sr=1-1',
+  },
+  {
+    week: '080821',
+    headline: 'Minor Feelings',
+    citation: 'Cathy Hong',
+    link: 'https://media.salon.com/2020/02/minor-feelings-cathy-park-hong-0225201.jpg',
+    img:
+      'https://www.amazon.com/Minor-Feelings-Asian-American-Reckoning/dp/1984820362/ref=sr_1_1?dchild=1&keywords=Minor+Feelings+Cathy+Hong&qid=1608168064&s=books&sr=1-1e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '081521',
+    headline: 'Writers & Lovers',
+    citation: 'Lily King',
+    link: 'https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/068/68065-1.JPG',
+    img:
+      'https://www.amazon.com/Writers-Lovers-Lily-King/dp/0802148530/ref=sr_1_1?dchild=1&keywords=Writers+%26+Lovers+Lily+King&qid=1608168084&s=books&sr=1-10063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '082221',
+    headline: 'Real Life',
+    citation: 'Brandon Taylor',
+    link:
+      'https://cdn.vox-cdn.com/thumbor/_wFSK8wUWaBonAwdAaMrapnD6xY=/0x0:1800x1200/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/66364387/headshots_1582563117813.0.jpg',
+    img:
+      'https://www.amazon.com/Real-Life-Novel-Brandon-Taylor/dp/0525538887/ref=sr_1_1?dchild=1&keywords=Real+Life+Brandon+Taylor&qid=1608168095&s=books&sr=1-1',
+  },
+  {
+    week: '082921',
+    headline: 'Interior Chinatown',
+    citation: 'Charles Yu',
+    link: 'https://variety.com/wp-content/uploads/2020/10/charles-yu-interior-chinatown-hulu.jpg',
+    img:
+      'https://www.amazon.com/Interior-Chinatown-Novel-Vintage-Contemporaries/dp/0307948471/ref=sr_1_1?dchild=1&keywords=Interior+Chinatown+Charles+Yu&qid=1608168103&s=books&sr=1-1063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '090521',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '091221',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '091921',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '092621',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '100321',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '101021',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '101721',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '102421',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '103121',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '110721',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '111421',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '112121',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '112821',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '120521',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '121221',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '121921',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '010222',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
+  {
+    week: '122621',
+    headline: 'TITLE',
+    citation: 'AUTHOR',
+    link: 'LINK',
+    img:
+      'https://images.ctfassets.net/cnu0m8re1exe/4KwrJVfCGeyOKwm8PS2tjI/30026753d97e3b41a50560063126ded8/shutterstock_135114548.jpg',
+  },
 ];

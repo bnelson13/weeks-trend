@@ -1,258 +1,647 @@
-let artsData = [{
-    "week": "042620",
-    "headline": "The Ninth Wave",
-    "citation": "Ivan Aivazovsky",
-    "link": "https://theculturetrip.com/europe/russia/articles/a-brief-history-of-the-ninth-wave/",
-    "img": "https://img.theculturetrip.com/1440x807/smart/wp-content/uploads/2017/12/aivazovsky_ivan_-_the_ninth_wave.jpg"
-},{
-    "week": "050320",
-    "headline": "Birth of Venus",
-    "citation": "Sandro  Botticelli",
-    "link": "https://www.uffizi.it/en/artworks/birth-of-venus",
-    "img": "https://images.uffizi.it/production/attachments/1503909239806647-605174-2-.jpg?ixlib=rails-2.1.3&w=1200&h=800&fit=clip&crop=center&fm=gjpg&auto=compress"
-},
-{
-    "week": "051020",
-    "headline": "Luncheon of the Boating Party",
-    "citation": "Auguste Renoir",
-    "link": "https://www.phillipscollection.org/collection/boating-party",
-    "img": "https://www.phillipscollection.org/sites/default/files/styles/slideshow_image_size/public/media/Renoir%2C%20Luncheon%20of%20the%20Boating%20Party%2C%20The%20Phillips%20Collection_0.jpg?itok=oI78qvL5"
-},
-{
-    "week": "051720",
-    "headline": "Wanderer Above the Sea of Fog",
-    "citation": "Caspar David Friedrich",
-    "link": "https://www.artsy.net/article/artsy-editorial-unraveling-mysteries-caspar-david-friedrichs-wanderer",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/1200px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
-},
-{
-    "week": "052420",
-    "headline": "A New Hero Emerges",
-    "citation": "Banksy",
-    "link": "https://www.banksy.co.uk/img/nhs3.jpg",
-    "img": "https://www.banksy.co.uk/img/nhs3.jpg"
-},
-{
-    "week": "053120",
-    "headline": "Liberty Leading the People",
-    "citation": "Eugen Delacroix",
-    "link": "https://www.khanacademy.org/humanities/ap-art-history/later-europe-and-americas/enlightenment-revolution/a/delacroix-liberty-leading",
-    "img": "https://cdn.kastatic.org/ka-perseus-images/10c8a0b4ec7a1dde8b63d6d50489e1468b65fd3f.jpg"
-},
-{
-    "week": "060720",
-    "headline": "The Avenue in the Rain",
-    "citation": "Childe Hassam",
-    "link": "https://www.whitehousehistory.org/photos/treasures-of-the-white-house-avenue-in-the-rain",
-    "img": "https://d1y822qhq55g6.cloudfront.net/default/_superImage/Avenue_in_the_Rain.jpg"
-},
-{
-    "week": "061420",
-    "headline": "The Great Wave off Kanagawa",
-    "citation": "Katsushika Hokusai",
-    "link": "https://www.metmuseum.org/art/collection/search/45434",
-    "img": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/45434/134438/main-image"
-},
-{
-    "week": "062120",
-    "headline": "Dance at the Moulin de la Galette",
-    "citation": "August Renoir",
-    "link": "https://en.wikipedia.org/wiki/Bal_du_moulin_de_la_Galette",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Mus%C3%A9e_d%27Orsay_RF_2739_%28derivative_work_-_AutoContrast_edit_in_LCH_space%29.jpg/1200px-Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Mus%C3%A9e_d%27Orsay_RF_2739_%28derivative_work_-_AutoContrast_edit_in_LCH_space%29.jpg"
-},
-{
-    "week": "062820",
-    "headline": "Arrangement In Grey And Black, No. 1",
-    "citation": "James Whistler",
-    "link": "https://www.newyorker.com/magazine/2015/08/31/moms-home",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Whistlers_Mother_high_res.jpg/1200px-Whistlers_Mother_high_res.jpg"
-},
-{
-    "week": "070520",
-    "headline": "The Lady with the Ermine",
-    "citation": "Leonardo da Vinci",
-    "link": "http://totallyhistory.com/lady-with-an-ermine/",
-    "img": "http://totallyhistory.com/wp-content/uploads/2011/09/Lady-with-an-Ermine.jpg"
-},
-{
-    "week": "071220",
-    "headline": "Paris Street in Rainy Weather",
-    "citation": "Gustave Caillebotte",
-    "link": "https://www.widewalls.ch/paris-street-rainy-day-gustave-caillebotte/",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Gustave_Caillebotte_-_Paris_Street%3B_Rainy_Day_-_Google_Art_Project.jpg/1200px-Gustave_Caillebotte_-_Paris_Street%3B_Rainy_Day_-_Google_Art_Project.jpg"
-},
-{
-    "week": "071920",
-    "headline": "The Fall of the Damned",
-    "citation": "Peter Paul Rubens",
-    "link": "https://kab89.wordpress.com/2012/02/24/the-fall-of-the-damned-circa-1620-by-peter-paul-rubens/",
-    "img": "https://live.staticflickr.com/8389/8630057085_bda776b2d5_b.jpg"
-},
-{
-    "week": "072620",
-    "headline": "Pollice Verso",
-    "citation": "Jean-Leon Gerome",
-    "link": "https://seanmunger.com/2015/07/22/historic-painting-pollice-verso-by-jean-leon-gerome-1872/",
-    "img": "https://i.pinimg.com/originals/31/1f/4d/311f4d824d91a0737c5621e8518e0a2b.jpg"
-},
-{
-    "week": "080220",
-    "headline": "The Sleeping Gypsy",
-    "citation": "Henri Rousseau",
-    "link": "https://www.moma.org/collection/works/80172",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Henri_Rousseau_010.jpg/1200px-Henri_Rousseau_010.jpg"
-},
-{
-    "week": "080920",
-    "headline": "Sunday Afternoon On The Island Of La Grande Jatte",
-    "citation": "Georges Seurat",
-    "link": "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884",
-    "img": "https://www.artic.edu/iiif/2/88d65792-afb3-c90b-56d7-6f95967fa731/full/843,/0/default.jpg"
-},
-{
-    "week": "081620",
-    "headline": "Napoleon Crossing the Alps",
-    "citation": "Jacques-Louis David",
-    "link": "https://smarthistory.org/jacques-louis-david-napoleon-crossing-the-alps/",
-    "img": "https://images2.minutemediacdn.com/image/upload/c_crop,h_999,w_1500,x_0,y_97/v1554999494/shape/mentalfloss/501954-wikimedia.jpg?itok=K4MGBGhQ"
-},
-{
-    "week": "082320",
-    "headline": "The Night Watch",
-    "citation": "Rembrandt",
-    "link": "https://nightwatchexperience.com/en/",
-    "img": "https://i1.wp.com/www.dutchamsterdam.nl/i/aa/2007/03/nightwatch2.jpg?fit=722%2C602&ssl=1"
-},
-{
-    "week": "083020",
-    "headline": "Composition VIII",
-    "citation": "Wassily Kandinsky",
-    "link": "https://www.guggenheim.org/artwork/1924",
-    "img": "https://i2.wp.com/www.guggenheim.org/wp-content/uploads/1923/01/37.262_ph_web-1.jpg"
-},
-{
-    "week": "090620",
-    "headline": "The Oath of Horatii",
-    "citation": "Jacques-Louis David",
-    "link": "https://www.khanacademy.org/humanities/ap-art-history/later-europe-and-americas/enlightenment-revolution/a/david-oath-of-the-horatii",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg"
-},
-{
-    "week": "091320",
-    "headline": "The Lady of Shalott",
-    "citation": "John William Waterhouse",
-    "link": "https://www.tate.org.uk/art/artworks/waterhouse-the-lady-of-shalott-n01543",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/John_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project_edit.jpg/1200px-John_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project_edit.jpg"
-},
-{
-    "week": "092020",
-    "headline": "Adoration of the Magi",
-    "citation": "Gentile da Fabriano",
-    "link": "https://www.uffizi.it/en/artworks/adoration-of-the-magi",
-    "img": "https://cdn.kastatic.org/ka-perseus-images/dd0f91188cb2ef5460e0ceb4c92c7a7dbe649b78.jpg"
-},
-{
-    "week": "092720",
-    "headline": "The Japanese Bridge",
-    "citation": "Claude Monet",
-    "link": "https://www.nga.gov/collection/highlights/monet-the-japanese-footbridge.html",
-    "img": "https://puam-loris.aws.princeton.edu/loris/y1972-15.jp2/full/!650,650/0/default.jpg"
-},
-{
-    "week": "100420",
-    "headline": "Washington Crossing the Delaware",
-    "citation": "Emanuel Gottlieb Leutze",
-    "link": "https://www.khanacademy.org/humanities/art-americas/us-art-19c/romanticism-us/a/leutze-washington-crossing-the-delaware",
-    "img": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/washington-crossing-the-delaware-river-emanuel-gottlieb-leutze.jpg"
-},
-{
-    "week": "101120",
-    "headline": "The Garden Of Earthly Delights",
-    "citation": "Hieronymus Bosch",
-    "link": "artsy.net/article/artsy-editorial-decoding-boschs-wild-whimsical-garden-earthly-delights",
-    "img": "https://render.fineartamerica.com/images/rendered/default/print/7.5/8/break/images-medium-5/the-garden-of-earthly-delights--central-panel-hieronymus-bosch.jpg"
-},
-{
-    "week": "101820",
-    "headline": "Hungers in the Snow",
-    "citation": "Pieter Bruegel",
-    "link": "https://smarthistory.org/pieter-bruegel-the-elder-hunters-in-the-snow-winter/",
-    "img": "https://lh6.ggpht.com/RLZcxskHhlzq_RQPfMaZaXgEbDSat7V9gJw86Z4AUC0R3YybpUxphQM_8kI=s1200"
-},
-{
-    "week": "102520",
-    "headline": "The Seed of Areoi",
-    "citation": "Paul Gaugin",
-    "link": "https://www.moma.org/collection/works/83387",
-    "img": "https://live.staticflickr.com/3289/2877211794_846bb1b23f_b.jpg"
-},
-{
-    "week": "110120",
-    "headline": "The Mona Lisa",
-    "citation": "Leonardo da Vinci",
-    "link": "https://live.staticflickr.com/3289/2877211794_846bb1b23f_b.jpg",
-    "img": "https://mymodernmet.com/wp/wp-content/uploads/2018/01/mona-lisa-facts-2.jpg"
-},
-{
-    "week": "110820",
-    "headline": "The Girl with the Pearl Earing",
-    "citation": "Johannes Vermeer",
-    "link": "https://artsandculture.google.com/theme/what%E2%80%99s-so-special-about-vermeer%E2%80%99s-girl-with-a-pearl-earring/xgKCl7zQJhT3KQ?hl=en",
-    "img": "https://cdn.britannica.com/s:700x500/33/194733-050-4CF75F31/Girl-with-a-Pearl-Earring-canvas-Johannes-1665.jpg"
-},
-{
-    "week": "111520",
-    "headline": "The Starry Night",
-    "citation": "Vincent van Gogh",
-    "link": "https://smarthistory.org/van-gogh-the-starry-night/",
-    "img": "https://media.timeout.com/images/103166739/750/422/image.jpg"
-},
-{
-    "week": "112220",
-    "headline": "The Raft of the Medusa",
-    "citation": " Théodore Géricault",
-    "link": "https://www.louvre.fr/en/oeuvre-notices/raft-medusa",
-    "img": "https://mydailyartdisplay.files.wordpress.com/2011/06/pt-am296_mpmedu_g_20090814130119.jpg?w=640"
-},
-{
-    "week": "112920",
-    "headline": "Nighthawks",
-    "citation": "Edward Hopper",
-    "link": "https://blog.artsper.com/en/a-closer-look/artwork-analysis-nighthawks-by-edward-hopper/",
-    "img": "https://media.timeout.com/images/105455060/750/422/image.jpg"
-},
-{
-    "week": "120620",
-    "headline": "Nude Descending a Staircase, No. 2",
-    "citation": "Marcel Duchamp",
-    "link": "https://smarthistory.org/duchamp-descending/",
-    "img": "https://smarthistory.org/wp-content/uploads/2017/01/duchamp-nude_-whole.jpg"
-},
-{
-    "week": "121320",
-    "headline": "The Last Supper",
-    "citation": "Leonardo da Vinci",
-    "link": "https://www.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/renaissance-art-europe-ap/a/leonardo-last-supper",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/1200px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg"
-},
-{
-    "week": "122020",
-    "headline": "Las Meninas",
-    "citation": "Diego Velázquez",
-    "link": "https://www.artsy.net/article/artsy-editorial-centuries-people-las-meninas",
-    "img": "https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FDXHzo4f9mrPx_Y7NLUunJg%2Flarger.jpg&width=1200&quality=80"
-},
-{
-    "week": "122720",
-    "headline": "Creation of Adam",
-    "citation": "Michaelangelo",
-    "link": "http://www.italianrenaissance.org/michelangelo-creation-of-adam/",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg"
-},
-{
-    "week": "010321",
-    "headline": "The Kiss",
-    "citation": "Gustav Kilmt",
-    "link": "https://mymodernmet.com/the-kiss-gustav-klimt/",
-    "img": "https://mymodernmet.com/wp/wp-content/uploads/2017/07/the-kiss-gustav-klimt-1.jpg"
-}]
+let artsData = [
+  {
+    week: '042620',
+    headline: 'The Ninth Wave',
+    citation: 'Ivan Aivazovsky',
+    link: 'https://theculturetrip.com/europe/russia/articles/a-brief-history-of-the-ninth-wave/',
+    img:
+      'https://img.theculturetrip.com/1440x807/smart/wp-content/uploads/2017/12/aivazovsky_ivan_-_the_ninth_wave.jpg',
+  },
+  {
+    week: '050320',
+    headline: 'Birth of Venus',
+    citation: 'Sandro  Botticelli',
+    link: 'https://www.uffizi.it/en/artworks/birth-of-venus',
+    img:
+      'https://images.uffizi.it/production/attachments/1503909239806647-605174-2-.jpg?ixlib=rails-2.1.3&w=1200&h=800&fit=clip&crop=center&fm=gjpg&auto=compress',
+  },
+  {
+    week: '051020',
+    headline: 'Luncheon of the Boating Party',
+    citation: 'Auguste Renoir',
+    link: 'https://www.phillipscollection.org/collection/boating-party',
+    img:
+      'https://www.phillipscollection.org/sites/default/files/styles/slideshow_image_size/public/media/Renoir%2C%20Luncheon%20of%20the%20Boating%20Party%2C%20The%20Phillips%20Collection_0.jpg?itok=oI78qvL5',
+  },
+  {
+    week: '051720',
+    headline: 'Wanderer Above the Sea of Fog',
+    citation: 'Caspar David Friedrich',
+    link: 'https://www.artsy.net/article/artsy-editorial-unraveling-mysteries-caspar-david-friedrichs-wanderer',
+    img:
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/1200px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg',
+  },
+  {
+    week: '052420',
+    headline: 'A New Hero Emerges',
+    citation: 'Banksy',
+    link: 'https://www.banksy.co.uk/img/nhs3.jpg',
+    img: 'https://www.banksy.co.uk/img/nhs3.jpg',
+  },
+  {
+    week: '053120',
+    headline: 'Liberty Leading the People',
+    citation: 'Eugen Delacroix',
+    link:
+      'https://www.khanacademy.org/humanities/ap-art-history/later-europe-and-americas/enlightenment-revolution/a/delacroix-liberty-leading',
+    img: 'https://cdn.kastatic.org/ka-perseus-images/10c8a0b4ec7a1dde8b63d6d50489e1468b65fd3f.jpg',
+  },
+  {
+    week: '060720',
+    headline: 'The Avenue in the Rain',
+    citation: 'Childe Hassam',
+    link: 'https://www.whitehousehistory.org/photos/treasures-of-the-white-house-avenue-in-the-rain',
+    img: 'https://d1y822qhq55g6.cloudfront.net/default/_superImage/Avenue_in_the_Rain.jpg',
+  },
+  {
+    week: '061420',
+    headline: 'The Great Wave off Kanagawa',
+    citation: 'Katsushika Hokusai',
+    link: 'https://www.metmuseum.org/art/collection/search/45434',
+    img: 'https://collectionapi.metmuseum.org/api/collection/v1/iiif/45434/134438/main-image',
+  },
+  {
+    week: '062120',
+    headline: 'Dance at the Moulin de la Galette',
+    citation: 'August Renoir',
+    link: 'https://en.wikipedia.org/wiki/Bal_du_moulin_de_la_Galette',
+    img:
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Mus%C3%A9e_d%27Orsay_RF_2739_%28derivative_work_-_AutoContrast_edit_in_LCH_space%29.jpg/1200px-Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Mus%C3%A9e_d%27Orsay_RF_2739_%28derivative_work_-_AutoContrast_edit_in_LCH_space%29.jpg',
+  },
+  {
+    week: '062820',
+    headline: 'Arrangement In Grey And Black, No. 1',
+    citation: 'James Whistler',
+    link: 'https://www.newyorker.com/magazine/2015/08/31/moms-home',
+    img:
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Whistlers_Mother_high_res.jpg/1200px-Whistlers_Mother_high_res.jpg',
+  },
+  {
+    week: '070520',
+    headline: 'The Lady with the Ermine',
+    citation: 'Leonardo da Vinci',
+    link: 'http://totallyhistory.com/lady-with-an-ermine/',
+    img: 'http://totallyhistory.com/wp-content/uploads/2011/09/Lady-with-an-Ermine.jpg',
+  },
+  {
+    week: '071220',
+    headline: 'Paris Street in Rainy Weather',
+    citation: 'Gustave Caillebotte',
+    link: 'https://www.widewalls.ch/paris-street-rainy-day-gustave-caillebotte/',
+    img:
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Gustave_Caillebotte_-_Paris_Street%3B_Rainy_Day_-_Google_Art_Project.jpg/1200px-Gustave_Caillebotte_-_Paris_Street%3B_Rainy_Day_-_Google_Art_Project.jpg',
+  },
+  {
+    week: '071920',
+    headline: 'The Fall of the Damned',
+    citation: 'Peter Paul Rubens',
+    link: 'https://kab89.wordpress.com/2012/02/24/the-fall-of-the-damned-circa-1620-by-peter-paul-rubens/',
+    img: 'https://live.staticflickr.com/8389/8630057085_bda776b2d5_b.jpg',
+  },
+  {
+    week: '072620',
+    headline: 'Pollice Verso',
+    citation: 'Jean-Leon Gerome',
+    link: 'https://seanmunger.com/2015/07/22/historic-painting-pollice-verso-by-jean-leon-gerome-1872/',
+    img: 'https://i.pinimg.com/originals/31/1f/4d/311f4d824d91a0737c5621e8518e0a2b.jpg',
+  },
+  {
+    week: '080220',
+    headline: 'The Sleeping Gypsy',
+    citation: 'Henri Rousseau',
+    link: 'https://www.moma.org/collection/works/80172',
+    img:
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Henri_Rousseau_010.jpg/1200px-Henri_Rousseau_010.jpg',
+  },
+  {
+    week: '080920',
+    headline: 'Sunday Afternoon On The Island Of La Grande Jatte',
+    citation: 'Georges Seurat',
+    link: 'https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884',
+    img: 'https://www.artic.edu/iiif/2/88d65792-afb3-c90b-56d7-6f95967fa731/full/843,/0/default.jpg',
+  },
+  {
+    week: '081620',
+    headline: 'Napoleon Crossing the Alps',
+    citation: 'Jacques-Louis David',
+    link: 'https://smarthistory.org/jacques-louis-david-napoleon-crossing-the-alps/',
+    img:
+      'https://images2.minutemediacdn.com/image/upload/c_crop,h_999,w_1500,x_0,y_97/v1554999494/shape/mentalfloss/501954-wikimedia.jpg?itok=K4MGBGhQ',
+  },
+  {
+    week: '082320',
+    headline: 'The Night Watch',
+    citation: 'Rembrandt',
+    link: 'https://nightwatchexperience.com/en/',
+    img: 'https://i1.wp.com/www.dutchamsterdam.nl/i/aa/2007/03/nightwatch2.jpg?fit=722%2C602&ssl=1',
+  },
+  {
+    week: '083020',
+    headline: 'Composition VIII',
+    citation: 'Wassily Kandinsky',
+    link: 'https://www.guggenheim.org/artwork/1924',
+    img: 'https://i2.wp.com/www.guggenheim.org/wp-content/uploads/1923/01/37.262_ph_web-1.jpg',
+  },
+  {
+    week: '090620',
+    headline: 'The Oath of Horatii',
+    citation: 'Jacques-Louis David',
+    link:
+      'https://www.khanacademy.org/humanities/ap-art-history/later-europe-and-americas/enlightenment-revolution/a/david-oath-of-the-horatii',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg',
+  },
+  {
+    week: '091320',
+    headline: 'The Lady of Shalott',
+    citation: 'John William Waterhouse',
+    link: 'https://www.tate.org.uk/art/artworks/waterhouse-the-lady-of-shalott-n01543',
+    img:
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/John_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project_edit.jpg/1200px-John_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project_edit.jpg',
+  },
+  {
+    week: '092020',
+    headline: 'Adoration of the Magi',
+    citation: 'Gentile da Fabriano',
+    link: 'https://www.uffizi.it/en/artworks/adoration-of-the-magi',
+    img: 'https://cdn.kastatic.org/ka-perseus-images/dd0f91188cb2ef5460e0ceb4c92c7a7dbe649b78.jpg',
+  },
+  {
+    week: '092720',
+    headline: 'The Japanese Bridge',
+    citation: 'Claude Monet',
+    link: 'https://www.nga.gov/collection/highlights/monet-the-japanese-footbridge.html',
+    img: 'https://puam-loris.aws.princeton.edu/loris/y1972-15.jp2/full/!650,650/0/default.jpg',
+  },
+  {
+    week: '100420',
+    headline: 'Washington Crossing the Delaware',
+    citation: 'Emanuel Gottlieb Leutze',
+    link:
+      'https://www.khanacademy.org/humanities/art-americas/us-art-19c/romanticism-us/a/leutze-washington-crossing-the-delaware',
+    img:
+      'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/washington-crossing-the-delaware-river-emanuel-gottlieb-leutze.jpg',
+  },
+  {
+    week: '101120',
+    headline: 'The Garden Of Earthly Delights',
+    citation: 'Hieronymus Bosch',
+    link: 'artsy.net/article/artsy-editorial-decoding-boschs-wild-whimsical-garden-earthly-delights',
+    img:
+      'https://render.fineartamerica.com/images/rendered/default/print/7.5/8/break/images-medium-5/the-garden-of-earthly-delights--central-panel-hieronymus-bosch.jpg',
+  },
+  {
+    week: '101820',
+    headline: 'Hungers in the Snow',
+    citation: 'Pieter Bruegel',
+    link: 'https://smarthistory.org/pieter-bruegel-the-elder-hunters-in-the-snow-winter/',
+    img: 'https://lh6.ggpht.com/RLZcxskHhlzq_RQPfMaZaXgEbDSat7V9gJw86Z4AUC0R3YybpUxphQM_8kI=s1200',
+  },
+  {
+    week: '102520',
+    headline: 'The Seed of Areoi',
+    citation: 'Paul Gaugin',
+    link: 'https://www.moma.org/collection/works/83387',
+    img: 'https://live.staticflickr.com/3289/2877211794_846bb1b23f_b.jpg',
+  },
+  {
+    week: '110120',
+    headline: 'The Mona Lisa',
+    citation: 'Leonardo da Vinci',
+    link: 'https://live.staticflickr.com/3289/2877211794_846bb1b23f_b.jpg',
+    img: 'https://mymodernmet.com/wp/wp-content/uploads/2018/01/mona-lisa-facts-2.jpg',
+  },
+  {
+    week: '110820',
+    headline: 'The Girl with the Pearl Earing',
+    citation: 'Johannes Vermeer',
+    link:
+      'https://artsandculture.google.com/theme/what%E2%80%99s-so-special-about-vermeer%E2%80%99s-girl-with-a-pearl-earring/xgKCl7zQJhT3KQ?hl=en',
+    img:
+      'https://cdn.britannica.com/s:700x500/33/194733-050-4CF75F31/Girl-with-a-Pearl-Earring-canvas-Johannes-1665.jpg',
+  },
+  {
+    week: '111520',
+    headline: 'The Starry Night',
+    citation: 'Vincent van Gogh',
+    link: 'https://smarthistory.org/van-gogh-the-starry-night/',
+    img: 'https://media.timeout.com/images/103166739/750/422/image.jpg',
+  },
+  {
+    week: '112220',
+    headline: 'The Raft of the Medusa',
+    citation: ' Théodore Géricault',
+    link: 'https://www.louvre.fr/en/oeuvre-notices/raft-medusa',
+    img: 'https://mydailyartdisplay.files.wordpress.com/2011/06/pt-am296_mpmedu_g_20090814130119.jpg?w=640',
+  },
+  {
+    week: '112920',
+    headline: 'Nighthawks',
+    citation: 'Edward Hopper',
+    link: 'https://blog.artsper.com/en/a-closer-look/artwork-analysis-nighthawks-by-edward-hopper/',
+    img: 'https://media.timeout.com/images/105455060/750/422/image.jpg',
+  },
+  {
+    week: '120620',
+    headline: 'Nude Descending a Staircase, No. 2',
+    citation: 'Marcel Duchamp',
+    link: 'https://smarthistory.org/duchamp-descending/',
+    img: 'https://smarthistory.org/wp-content/uploads/2017/01/duchamp-nude_-whole.jpg',
+  },
+  {
+    week: '121320',
+    headline: 'The Last Supper',
+    citation: 'Leonardo da Vinci',
+    link:
+      'https://www.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/renaissance-art-europe-ap/a/leonardo-last-supper',
+    img:
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/1200px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg',
+  },
+  {
+    week: '122020',
+    headline: 'Las Meninas',
+    citation: 'Diego Velázquez',
+    link: 'https://www.artsy.net/article/artsy-editorial-centuries-people-las-meninas',
+    img:
+      'https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FDXHzo4f9mrPx_Y7NLUunJg%2Flarger.jpg&width=1200&quality=80',
+  },
+  {
+    week: '122720',
+    headline: 'Creation of Adam',
+    citation: 'Michaelangelo',
+    link: 'http://www.italianrenaissance.org/michelangelo-creation-of-adam/',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg',
+  },
+  {
+    week: '010321',
+    headline: 'The Kiss',
+    citation: 'Gustav Kilmt',
+    link: 'https://mymodernmet.com/the-kiss-gustav-klimt/',
+    img: 'https://mymodernmet.com/wp/wp-content/uploads/2017/07/the-kiss-gustav-klimt-1.jpg',
+  },
+
+  {
+    week: '011021',
+    headline: 'The Arnolfini Portrait',
+    citation: 'Jan van Eyck',
+    link: 'https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '011721',
+    headline: 'Les Demoiselles d’Avignon',
+    citation: 'Pablo Picasso',
+    link: 'https://www.moma.org/collection/works/79766',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '012421',
+    headline: 'The Harvesters',
+    citation: 'Pieter Bruegel',
+    link: 'https://www.metmuseum.org/art/collection/search/435809',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '013121',
+    headline: 'Le Déjeuner sur l’herbe',
+    citation: 'Édouard Manet',
+    link: 'https://m.musee-orsay.fr/en/works/commentaire_id/luncheon-on-the-grass-7123.html',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '020721',
+    headline: 'Composition with Red Blue and Yellow, 1930',
+    citation: 'Piet Mondrian',
+    link: 'https://www.piet-mondrian.org/composition-ii-in-red-blue-and-yellow.jsp',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '021421',
+    headline: 'The Naked Maja',
+    citation: 'Francisco de Goya',
+    link: 'https://www.museodelprado.es/en/the-collection/art-work/the-naked-maja/65953b93-323e-48fe-98cb-9d4b15852b18',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '022121',
+    headline: 'Guernica',
+    citation: 'Pablo Picasso',
+    link: 'https://www.museoreinasofia.es/en/collection/artwork/guernica',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '022821',
+    headline: 'Grande Odalisque',
+    citation: 'Jean Auguste Ingres',
+    link: 'https://www.louvre.fr/en/oeuvre-notices/une-odalisque',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '030721',
+    headline: 'Impression, Sunrise',
+    citation: 'Claude Monet',
+    link: 'https://www.claude-monet.com/impression-sunrise.jsp',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '031421',
+    headline: 'The Astronomer',
+    citation: 'Johannes Vermeer',
+    link: 'http://www.essentialvermeer.com/cat_about/astronomer.html',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '032821',
+    headline: 'Flaming June',
+    citation: 'Sir Frederic Leighton',
+    link: 'http://www.fredericleighton.org/flaming-june/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '040421',
+    headline: 'Cafe Terrace at Night',
+    citation: 'Vincent van Gogh',
+    link: 'https://www.vangoghstudio.com/cafe-terrace-at-night-by-vincent-van-gogh/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '041121',
+    headline: 'Lady Agnew of Lochnaw',
+    citation: 'John Singer Sargent',
+    link: 'https://www.nationalgalleries.org/art-and-artists/5396/lady-agnew-lochnaw-1864-1932',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '041825',
+    headline: 'The Gleaners',
+    citation: 'Jean-François Millet',
+    link: 'https://www.theartstory.org/artist/millet-jean-francois/artworks/#pnt_3',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '042521',
+    headline: 'A Bar at the Folies-Bergère',
+    citation: 'Édouard Manet',
+    link:
+      'https://courtauld.ac.uk/gallery/collection/impressionism-post-impressionism/edouard-manet-a-bar-at-the-folies-bergere',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '050221',
+    headline: 'In a Roman Osteria',
+    citation: 'Carl Bloch',
+    link: 'https://artsandculture.google.com/asset/in-a-roman-osteria-carl-bloch/QAFizpSvU6qx6g?hl=en',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '050921',
+    headline: 'The Persistence of Memory',
+    citation: 'Salvado Dalí',
+    link: 'https://mymodernmet.com/the-persistence-of-memory-salvador-dali/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '051621',
+    headline: 'Paradise',
+    citation: 'Jan Brueghel',
+    link: 'https://en.wikipedia.org/wiki/Jan_Brueghel_the_Younger',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '052321',
+    headline: 'The Swing',
+    citation: 'Jean-Honoré Fragonard',
+    link:
+      'https://www.artsy.net/series/stories-10-art-historys-iconic-works/artsy-editorial-undressing-erotic-symbolism-the-swing-fragonards-decadent-masterpiece',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '053021',
+    headline: 'The Entombment of Christ',
+    citation: 'Caravaggio',
+    link:
+      'https://www.khanacademy.org/humanities/renaissance-reformation/baroque-art1/baroque-italy/a/caravaggio-deposition',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '060621',
+    headline: 'The Scream',
+    citation: 'Edvard Munch',
+    link:
+      'https://www.khanacademy.org/humanities/ap-art-history/later-europe-and-americas/modernity-ap/a/munch-the-scream',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '061321',
+    headline: 'Moonrise over the Sea',
+    citation: 'Caspar David Friedrich',
+    link: 'https://arthistoryproject.com/artists/caspar-david-friedrich/moonrise-over-the-sea/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '062021',
+    headline: 'The Laughing Cavalier',
+    citation: 'Frans Hals',
+    link: 'https://www.wallacecollection.org/art/collection/laughing-cavalier/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '062721',
+    headline: 'Portrait of Madame X',
+    citation: 'John Singer Sargent',
+    link: 'https://www.metmuseum.org/art/collection/search/12127',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '070421',
+    headline: 'The Old Guitarist',
+    citation: 'Pablo Picasso',
+    link: 'https://www.pablopicasso.org/old-guitarist.jsp',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '071121',
+    headline: 'The Anatomy Lesson of Dr. Nicolaes Tulp',
+    citation: 'Rembrandt',
+    link:
+      'https://www.khanacademy.org/humanities/renaissance-reformation/baroque-art1/holland/a/rembrandt-the-anatomy-lesson-of-dr-tulp',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '071821',
+    headline: 'The Battle of Alexander at Issus',
+    citation: 'Albrecht Altdorfer',
+    link: 'https://www.ibiblio.org/wm/paint/auth/altdorfer/battle-issus/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '072521',
+    headline: 'Netherlandish Proverbs',
+    citation: 'Pieter Brueghel',
+    link: 'https://artsandculture.google.com/asset/the-dutch-proverbs-pieter-bruegel-the-elder/WwG8mD89xbELbQ?hl=en',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '080121',
+    headline: 'The Death of Marat',
+    citation: 'Jacques-Louis David',
+    link: 'https://smarthistory.org/jacques-louis-david-the-death-of-marat/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '080821',
+    headline: 'The Fighting Temeraire',
+    citation: 'J. M. W. Turner',
+    link: 'https://smarthistory.org/turner-the-fighting-temeraire/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '081521',
+    headline: 'American Gothic',
+    citation: 'Grant Wood',
+    link: 'https://www.artic.edu/artworks/6565/american-gothic',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '082221',
+    headline: 'Samson and Delilah',
+    citation: 'Peter Paul Rubens',
+    link: 'http://www.peter-paul-rubens.org/samson-and-delilah/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '082921',
+    headline: 'The Venus of Urbino',
+    citation: 'Titian',
+    link: 'https://smarthistory.org/titian-venus-of-urbino/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '090521',
+    headline: 'The Night Café',
+    citation: 'Vincent van Gogh',
+    link: 'https://www.vincentvangogh.org/the-night-cafe.jsp',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '091221',
+    headline: 'Judith Beheading Holofernes',
+    citation: 'Artemisia Gentileschi',
+    link:
+      'https://www.khanacademy.org/humanities/renaissance-reformation/baroque-art1/baroque-italy/a/gentileschi-judith-slaying-holofernes',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '091921',
+    headline: 'Portrait of Henry VIII',
+    citation: 'Hans Holbein',
+    link: 'http://www.hansholbein.net/henry-viii/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '092621',
+    headline: 'Breezing Up',
+    citation: 'Winslow Homer',
+    link: 'https://www.nga.gov/collection/art-object-page.30228.html',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '100321',
+    headline: 'Chalk Cliffs on Rügen',
+    citation: 'Caspar David Friedrich',
+    link: 'https://en.wikipedia.org/wiki/Chalk_Cliffs_on_R%C3%BCgen',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '101021',
+    headline: 'The Third of May 1808',
+    citation: 'Francisco de Goya',
+    link:
+      'https://www.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-spain/a/goya-third-of-may-1808',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '101721',
+    headline: 'The Blue Boy',
+    citation: 'Thomas Gainsborough',
+    link: 'https://www.huntington.org/blue-boy',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '102421',
+    headline: 'Annunciation',
+    citation: 'Leonardo da Vinci',
+    link: 'https://www.leonardodavinci.net/the-annunciation.jsp',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '103121',
+    headline: 'Judith and her Maidservant',
+    citation: 'Artemisia Gentileschi',
+    link: 'https://www.dia.org/art/collection/object/judith-and-her-maidservant-head-holofernes-45746',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '110721',
+    headline: 'By the Seashore',
+    citation: 'August Renoir',
+    link: 'https://www.metmuseum.org/art/collection/search/437430',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '111421',
+    headline: 'Boulevard Montmartre, Paris',
+    citation: 'Camille Pissarro',
+    link: 'https://www.metmuseum.org/art/collection/search/437310',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '112121',
+    headline: 'Young Hare',
+    citation: 'Albrecht Dürer',
+    link: 'https://totallyhistory.com/young-hare/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '112821',
+    headline: 'Napoleon I on his Imperial Throne',
+    citation: 'Jean Auguste Ingres',
+    link:
+      'https://www.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-france/a/ingres-napoleon-on-his-imperial-throne',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '120521',
+    headline: 'Portrait of Juan de Pareja',
+    citation: 'Diego Velázquez',
+    link: 'https://www.metmuseum.org/art/collection/search/437869',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '121221',
+    headline: 'The Gulf Stream',
+    citation: 'Winslow Homer',
+    link: 'https://www.metmuseum.org/art/collection/search/11122',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '121921',
+    headline: "At Eternity's Gate",
+    citation: 'Vincent van Gogh',
+    link: 'https://www.vincentvangogh.org/at-eternitys-gate.jsp',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '122621',
+    headline: 'The Flagellation of Christ',
+    citation: 'Caravaggio',
+    link: 'http://www.caravaggio.net/the-flagellation-of-christ/',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+  {
+    week: '010222',
+    headline: 'The Hangover',
+    citation: 'Henri de Toulouse-Lautrec',
+    link: 'https://harvardartmuseums.org/collections/object/229060',
+    img: 'https://www.bocadolobo.com/blog/wp-content/uploads/2020/10/Some-of-The-Most-Famous-Artists-Of-All-Time-3.jpg',
+  },
+];
