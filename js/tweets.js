@@ -281,9 +281,9 @@ let tweetsData = [
   },
   {
     week: '122720',
-    headline: '@notfunnyelle',
+    headline: '@thearibradford',
     citation: 'Citation',
-    link: 'https://twitter.com/notfunnyelle/status/1320871791468838913',
+    link: 'https://twitter.com/thearibradford/status/1308124561544601601',
     img:
       'https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   },
@@ -297,73 +297,73 @@ let tweetsData = [
   },
   {
     week: '011021',
-    headline: 'AUTHOR',
+    headline: '@mommajessiec',
     citation: '',
-    link: 'LINK',
+    link: 'https://twitter.com/mommajessiec/status/1271453883404083200',
     img:
       'https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   },
   {
     week: '011721',
-    headline: 'AUTHOR',
+    headline: '@david8hughes',
     citation: '',
-    link: 'LINK',
+    link: 'https://twitter.com/david8hughes/status/1241019927504412674',
     img:
       'https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   },
   {
     week: '012421',
-    headline: 'AUTHOR',
+    headline: '@ravenswng_',
     citation: '',
-    link: 'LINK',
+    link: 'https://twitter.com/ravenswng_/status/1271934903257620480',
     img:
       'https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   },
   {
     week: '013121',
-    headline: 'AUTHOR',
+    headline: '@mom_tho',
     citation: '',
-    link: 'LINK',
+    link: 'https://twitter.com/mom_tho/status/1257758216936665088',
     img:
       'https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   },
   {
     week: '020721',
-    headline: 'AUTHOR',
+    headline: '@thedadvocate01',
     citation: '',
-    link: 'LINK',
+    link: 'https://twitter.com/thedadvocate01/status/1258125572485443584',
     img:
       'https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   },
   {
     week: '021421',
-    headline: 'AUTHOR',
+    headline: '@thedad',
     citation: '',
-    link: 'LINK',
+    link: 'https://twitter.com/thedad/status/1329097033005887491',
     img:
       'https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   },
   {
     week: '022121',
-    headline: 'AUTHOR',
+    headline: '@RodLacroix',
     citation: '',
-    link: 'LINK',
+    link: 'https://twitter.com/RodLacroix/status/1250389253210718209',
     img:
       'https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   },
   {
     week: '022821',
-    headline: 'AUTHOR',
+    headline: '@SladeWentworth',
     citation: '',
-    link: 'LINK',
+    link: 'https://twitter.com/SladeWentworth/status/1299459451448168450',
     img:
       'https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   },
   {
     week: '030721',
-    headline: 'AUTHOR',
+    headline: '@Lhlodder',
     citation: '',
-    link: 'LINK',
+    link: 'https://twitter.com/Lhlodder/status/1310275885333803008',
     img:
       'https://images.unsplash.com/photo-1551817958-d9d86fb29431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   },

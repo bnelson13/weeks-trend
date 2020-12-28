@@ -270,11 +270,10 @@ const articlesData = [
   },
   {
     week: '122720',
-    headline: 'HEADLINE',
-    citation: 'Citation',
-    link: '#',
-    img:
-      'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+    headline: 'Nashville Explosion: What to Know',
+    citation: 'New York Times',
+    link: 'https://www.nytimes.com/2020/12/26/us/nashville-bomb-explosion.html',
+    img: 'https://www.bostonherald.com/wp-content/uploads/2020/12/APTOPIX_Nashville_Explosion_93329-1.jpg',
   },
   {
     week: '010321',
